@@ -133,6 +133,41 @@ grep -rn "password" --include="*.java"  # 找代码中密码相关的地方
 
 ---
 
+## 10. SCP 远程文件传输
+
+```bash
+# 上传：本地 → 远程服务器
+scp local_file user@remote_ip:/remote/path/       # 传文件
+scp -r local_dir user@remote_ip:/remote/path/     # 传目录（-r 递归）
+scp -P 2222 local_file user@remote_ip:/path/      # 指定端口（默认22）
+
+# 下载：远程服务器 → 本地
+scp user@remote_ip:/remote/file local_path/       # 下载文件
+scp -r user@remote_ip:/remote/dir local_path/     # 下载目录
+scp -P 2222 user@remote_ip:/remote/file ./         # 指定端口下载
+
+# 两台远程服务器之间互传（从本地A机传文件到B机）
+scp user_a@ip_a:/path/file user_b@ip_b:/path/
+
+# 常用参数
+scp -C file user@ip:/path/     # -C 启用压缩传输（大文件加速）
+scp -l 1000 file user@ip:/path/  # -l 限速（单位 Kbit/s），避免占满带宽
+```
+
+**实际场景：**
+```bash
+# 把本地打包好的 jar 传到服务器
+scp target/app.jar root@192.168.1.100:/opt/app/
+
+# 从服务器拉日志到本地排查
+scp root@192.168.1.100:/var/log/app/error.log ./
+
+# 把整个项目目录传到新服务器
+scp -r ./project root@192.168.1.100:/opt/
+```
+
+---
+
 ## 速查表
 
 | 场景 | 命令 |
@@ -152,6 +187,10 @@ grep -rn "password" --include="*.java"  # 找代码中密码相关的地方
 | 文件中查找 | `grep "文字" file` |
 | 目录递归查找 | `grep -rn "文字" .` |
 | 指定文件类型查找 | `grep -rn "文字" --include="*.js"` |
+| 上传文件到服务器 | `scp file user@ip:/path/` |
+| 从服务器下载文件 | `scp user@ip:/remote/file ./` |
+| 传输目录 | `scp -r src user@ip:/path/` |
+| 指定端口 | `scp -P 2222 file user@ip:/path/` |
 
 ---
 
