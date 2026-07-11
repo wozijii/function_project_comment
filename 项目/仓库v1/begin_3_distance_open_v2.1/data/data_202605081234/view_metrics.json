@@ -1,0 +1,10 @@
+{
+  "total_on_time": 1,
+  "total_tasks": 41,
+  "on_time_pct": 2.44,
+  "total_seconds_all": 40597,
+  "total_sku_count_all": 516,
+  "per_sku_time_total": 78.68,
+  "total_walk_all": 1378.09,
+  "per_sku_walk_total": 2.67
+}

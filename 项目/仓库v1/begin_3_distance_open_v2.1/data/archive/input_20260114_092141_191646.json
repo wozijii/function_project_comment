@@ -1,0 +1,89 @@
+{
+  "simulate": false,
+  "simulate_id": 1768353701,
+  "push_index": 1,
+  "last_push": true,
+  "userInfo": [
+    {
+      "sn": "MT22AM50250900037",
+      "userId": "XC240891",
+      "name": "邱菊",
+      "userMoveSpeed": 1.2,
+      "area": [],
+      "allocatedTask": [],
+      "pdaLocationX": 6.33,
+      "pdaLocationY": 0.68,
+      "padLocationTime": "2026-01-14 09:21:40"
+    },
+    {
+      "sn": "MT22AM50250900080",
+      "userId": "XC231579",
+      "name": "滕亮",
+      "userMoveSpeed": 1.2,
+      "area": [],
+      "allocatedTask": [],
+      "pdaLocationX": 5.34,
+      "pdaLocationY": 2.38,
+      "padLocationTime": "2026-01-14 09:21:40"
+    },
+    {
+      "sn": "MT22AM50250900087",
+      "userId": "XC231239",
+      "name": "魏秋容",
+      "userMoveSpeed": 1.2,
+      "area": [],
+      "allocatedTask": [],
+      "pdaLocationX": 7.0,
+      "pdaLocationY": 15.89,
+      "padLocationTime": "2026-01-14 09:21:40"
+    },
+    {
+      "sn": "MT22AM50250900056",
+      "userId": "XC241608",
+      "name": "蒲节",
+      "userMoveSpeed": 1.2,
+      "area": [],
+      "allocatedTask": [],
+      "pdaLocationX": 41.85,
+      "pdaLocationY": 24.27,
+      "padLocationTime": "2026-01-14 09:21:39"
+    }
+  ],
+  "taskInfo": {
+    "ruleList": [
+      {
+        "ruleName": "就近原则"
+      },
+      {
+        "ruleName": "技能匹配"
+      }
+    ],
+    "taskDetail": [
+      {
+        "IngredientList": "XCCK202601130001",
+        "mainId": 667481,
+        "taskId": "XCCK202601130001",
+        "taskPriority": 2,
+        "skuList": [
+          {
+            "skuCode": "R6610011203LA",
+            "inspectedQuantity": 2.0,
+            "taskDetailId": 1399538,
+            "locationX": 12.6,
+            "locationY": 23.08,
+            "skuPickSpeed": 60
+          },
+          {
+            "skuCode": "R6610011203LA",
+            "inspectedQuantity": 1.0,
+            "taskDetailId": 1399539,
+            "locationX": 12.6,
+            "locationY": 23.08,
+            "skuPickSpeed": 60
+          }
+        ],
+        "timeLine": "2026-01-16 09:21:26"
+      }
+    ]
+  }
+}

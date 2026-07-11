@@ -1,0 +1,115 @@
+{
+  "simulate": false,
+  "simulate_id": 1768033921,
+  "push_index": 1,
+  "last_push": true,
+  "userInfo": [
+    {
+      "sn": "MT22AM50250900056",
+      "userId": "XC241608",
+      "name": "蒲节",
+      "userMoveSpeed": 1.2,
+      "area": [],
+      "allocatedTask": [],
+      "pdaLocationX": 41.84,
+      "pdaLocationY": 24.31,
+      "padLocationTime": "2026-01-09 21:58:56"
+    }
+  ],
+  "taskInfo": {
+    "ruleList": [
+      {
+        "ruleName": "就近原则"
+      },
+      {
+        "ruleName": "技能匹配"
+      }
+    ],
+    "taskDetail": [
+      {
+        "IngredientList": "CLCK202601100004",
+        "mainId": 657280,
+        "taskId": "CLCK202601100004#1028831",
+        "taskPriority": 2,
+        "skuList": [
+          {
+            "skuCode": "R5440003148LA",
+            "inspectedQuantity": 1.0,
+            "taskDetailId": 1382902,
+            "locationX": 25.13,
+            "locationY": 12.2,
+            "skuPickSpeed": 60
+          },
+          {
+            "skuCode": "R5440003148LA",
+            "inspectedQuantity": 2.0,
+            "taskDetailId": 1382903,
+            "locationX": 25.13,
+            "locationY": 12.2,
+            "skuPickSpeed": 60
+          }
+        ],
+        "timeLine": "2026-01-12 13:50:02"
+      },
+      {
+        "IngredientList": "CLCK202601100008",
+        "mainId": 657351,
+        "taskId": "CLCK202601100008",
+        "taskPriority": 2,
+        "skuList": [
+          {
+            "skuCode": "R6610010650LA",
+            "inspectedQuantity": 587.0,
+            "taskDetailId": 1383100,
+            "locationX": 33.2,
+            "locationY": 16.8,
+            "skuPickSpeed": 60
+          },
+          {
+            "skuCode": "R6610010650LA",
+            "inspectedQuantity": 125.0,
+            "taskDetailId": 1383099,
+            "locationX": 33.2,
+            "locationY": 16.8,
+            "skuPickSpeed": 60
+          }
+        ],
+        "timeLine": "2026-01-12 16:04:25"
+      },
+      {
+        "IngredientList": "CLCK202601100004",
+        "mainId": 657279,
+        "taskId": "CLCK202601100004#1028834",
+        "taskPriority": 2,
+        "skuList": [
+          {
+            "skuCode": "R5440003148LA",
+            "inspectedQuantity": 1.0,
+            "taskDetailId": 1382901,
+            "locationX": 22.86,
+            "locationY": 17.6,
+            "skuPickSpeed": 60
+          }
+        ],
+        "timeLine": "2026-01-12 13:50:02"
+      },
+      {
+        "IngredientList": "CLCK202601100004",
+        "mainId": 657278,
+        "taskId": "CLCK202601100004",
+        "taskPriority": 2,
+        "skuList": [
+          {
+            "skuCode": "R5440003148LA",
+            "inspectedQuantity": 1.0,
+            "taskDetailId": 1382900,
+            "locationX": 28.7,
+            "locationY": 10.02,
+            "skuPickSpeed": 60
+          }
+        ],
+        "timeLine": "2026-01-12 13:50:02"
+      }
+    ]
+  }
+}

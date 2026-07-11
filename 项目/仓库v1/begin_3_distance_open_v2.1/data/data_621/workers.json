@@ -1,0 +1,17 @@
+{
+  "userInfo": [
+    {
+      "sn": "MT22AE50250900086",
+      "userId": "XC210211",
+      "name": "张三",
+      "userMoveSpeed": 1.2,
+      "area": [
+        "2JG,2SC-JG"
+      ],
+      "allocatedTask": [],
+      "pdaLocationX": 42.0,
+      "pdaLocationY": 25.5,
+      "padLocationTime": "2025-12-17 10:00:00"
+    }
+  ]
+}

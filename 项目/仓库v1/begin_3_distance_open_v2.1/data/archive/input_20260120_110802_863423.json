@@ -1,0 +1,87 @@
+{
+  "simulate": false,
+  "simulate_id": 1768878482,
+  "push_index": 1,
+  "last_push": true,
+  "userInfo": [
+    {
+      "sn": "MT22AM50250900087",
+      "userId": "XC231239",
+      "name": "魏秋容",
+      "userMoveSpeed": 1.2,
+      "area": [],
+      "allocatedTask": [],
+      "pdaLocationX": 28.31,
+      "pdaLocationY": 25.38,
+      "padLocationTime": "2026-01-20 11:08:01"
+    },
+    {
+      "sn": "MT22AM50250900056",
+      "userId": "XC241608",
+      "name": "蒲节",
+      "userMoveSpeed": 1.2,
+      "area": [],
+      "allocatedTask": [],
+      "pdaLocationX": 49.22,
+      "pdaLocationY": 23.96,
+      "padLocationTime": "2026-01-20 11:08:02"
+    },
+    {
+      "sn": "MT22AM50250900080",
+      "userId": "XC231579",
+      "name": "滕亮",
+      "userMoveSpeed": 1.2,
+      "area": [],
+      "allocatedTask": [],
+      "pdaLocationX": 36.22,
+      "pdaLocationY": 8.08,
+      "padLocationTime": "2026-01-20 11:08:01"
+    }
+  ],
+  "taskInfo": {
+    "ruleList": [
+      {
+        "ruleName": "就近原则"
+      },
+      {
+        "ruleName": "技能匹配"
+      }
+    ],
+    "taskDetail": [
+      {
+        "IngredientList": "CLCK202601200025",
+        "mainId": 684448,
+        "taskId": "CLCK202601200025#1058919",
+        "taskPriority": 2,
+        "skuList": [
+          {
+            "skuCode": "R7110000040LA",
+            "inspectedQuantity": 1.0,
+            "taskDetailId": 1432165,
+            "locationX": 12.71,
+            "locationY": 6.06,
+            "skuPickSpeed": 60
+          }
+        ],
+        "timeLine": "2026-01-22 11:07:01"
+      },
+      {
+        "IngredientList": "CLCK202601200025",
+        "mainId": 684447,
+        "taskId": "CLCK202601200025",
+        "taskPriority": 2,
+        "skuList": [
+          {
+            "skuCode": "R1110011335LA",
+            "inspectedQuantity": 1.0,
+            "taskDetailId": 1432164,
+            "locationX": 12.6,
+            "locationY": 21.13,
+            "skuPickSpeed": 60
+          }
+        ],
+        "timeLine": "2026-01-22 11:07:01"
+      }
+    ]
+  }
+}

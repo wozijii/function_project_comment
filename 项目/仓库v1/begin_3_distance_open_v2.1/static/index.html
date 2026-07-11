@@ -1,0 +1,56 @@
+<!doctype html>
+<html lang="zh-CN">
+<head>
+  <meta charset="utf-8" />
+  <title>数据处理（简单）</title>
+  <style>
+    body{font-family: Arial, Helvetica, sans-serif; margin:20px}
+    textarea{width:100%;height:220px}
+    pre{background:#f6f6f6;padding:10px;overflow:auto}
+    .row{margin-top:10px}
+  </style>
+</head>
+<body>
+  <h3>上传 JSON 并调用后端处理（简单界面）</h3>
+  <p>在下面粘贴要发送的 JSON（包含 userInfo 和 taskInfo 字段），然后点击处理。页面将展示并允许下载最终的 <strong>output_assignment.json</strong>。</p>
+  <textarea id="inputJson" placeholder='示例: {"userInfo": [...], "taskInfo": [...]}'>
+  </textarea>
+  <div class="row">
+    <button id="submit">处理并返回</button>
+  </div>
+
+  <h4>返回结果（仅展示 output_assignment.json）</h4>
+  <div id="result">
+    <p>暂无结果</p>
+  </div>
+
+  <script>
+    document.getElementById('submit').addEventListener('click', async ()=>{
+      const raw = document.getElementById('inputJson').value.trim()
+      if(!raw){ alert('请先输入JSON'); return }
+      let payload
+      try{ payload = JSON.parse(raw) }catch(e){ alert('JSON 解析失败'); return }
+
+      const resBox = document.getElementById('result')
+      resBox.innerHTML = '处理中...'
+
+      try{
+        const r = await fetch('/process', {
+          method: 'POST',
+          headers: {'Content-Type':'application/json'},
+          body: JSON.stringify(payload)
+        })
+        if(!r.ok){ const t = await r.text(); resBox.innerHTML = '<pre>'+t+'</pre>'; return }
+        const data = await r.json()
+        const html = []
+        html.push('<strong>Output (output_assignment.json):</strong>')
+        html.push('<pre>'+JSON.stringify(data.output, null, 2)+'</pre>')
+        html.push('<div style="margin-top:8px"><a href="'+data.downloads.output+'" download>下载 output_assignment.json</a></div>')
+        resBox.innerHTML = html.join('\n')
+      }catch(err){
+        resBox.innerHTML = '<pre>'+err.toString()+'</pre>'
+      }
+    })
+  </script>
+</body>
+</html>

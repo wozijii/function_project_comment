@@ -1,0 +1,74 @@
+<!doctype html>
+<html lang="zh-CN">
+<head>
+  <meta charset="utf-8" />
+  <title>原始数据仿真（简单）</title>
+  <style>
+    body{font-family: Arial, Helvetica, sans-serif; margin:20px}
+    textarea{width:100%;height:260px}
+    pre{background:#f6f6f6;padding:10px;overflow:auto}
+    .row{margin-top:10px}
+  </style>
+</head>
+<body>
+  <h3>原始数据仿真（将前端输入作为仿真输入）</h3>
+  <p>在下面粘贴用于仿真的 JSON，然后点击“运行仿真”。页面会展示运行日志并给出视频下载链接（若生成）。</p>
+  <textarea id="inputJson" placeholder='示例: {"workers": [...], "tasks": [...]}'>
+  </textarea>
+  <div class="row">
+    <button id="submit">运行仿真</button>
+  </div>
+
+  <h4>仿真输出</h4>
+  <div id="result">
+    <p>暂无结果</p>
+  </div>
+
+  <script>
+    document.getElementById('submit').addEventListener('click', async ()=>{
+      const raw = document.getElementById('inputJson').value.trim()
+      if(!raw){ alert('请先输入JSON'); return }
+      let payload
+      try{ payload = JSON.parse(raw) }catch(e){ alert('JSON 解析失败'); return }
+
+      const resBox = document.getElementById('result')
+      resBox.innerHTML = '正在运行仿真，可能需要一段时间...'
+
+      try{
+        // 优先调用中文路径的处理接口，如果不存在再尝试 /simulate
+        let url = '/view/process'
+        let r = await fetch(url, {
+          method: 'POST',
+          headers: {'Content-Type':'application/json'},
+          body: JSON.stringify(payload)
+        })
+        if(!r.ok){
+          // try fallback
+          r = await fetch('/simulate', {
+            method: 'POST',
+            headers: {'Content-Type':'application/json'},
+            body: JSON.stringify(payload)
+          })
+        }
+
+        const text = await r.text()
+        let data
+        try{ data = JSON.parse(text) }catch(e){ data = null }
+        if(!r.ok){ resBox.innerHTML = '<pre>'+text+'</pre>'; return }
+
+        const html = []
+        html.push('<strong>运行日志：</strong>')
+        html.push('<pre>'+ (data && data.logs ? data.logs : '无') +'</pre>')
+        if(data && data.video){
+          html.push('<div style="margin-top:8px"><a href="'+data.video+'">下载/查看视频</a></div>')
+        } else {
+          html.push('<p>未生成视频。</p>')
+        }
+        resBox.innerHTML = html.join('\n')
+      }catch(err){
+        resBox.innerHTML = '<pre>'+err.toString()+'</pre>'
+      }
+    })
+  </script>
+</body>
+</html>

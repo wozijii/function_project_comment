@@ -1,0 +1,167 @@
+[
+  {
+    "taskId": "CLCK202512170012",
+    "userId": "XC210211",
+    "mainId": null,
+    "sku_order": [
+      {
+        "skuCode": "K7626000004LA",
+        "locationX": 41.68,
+        "locationY": 22.97,
+        "skuPickSpeed": 60,
+        "inspectedQuantity": 1,
+        "taskDetailId": null
+      }
+    ],
+    "predictStartTime": "2025-12-17 10:00:00",
+    "predictStartLocationX": 42.0,
+    "predictStartLocationY": 25.5,
+    "predictCompleteTime": "2025-12-17 10:01:02",
+    "predictCompleteLocationX": 41.68,
+    "predictCompleteLocationY": 22.97,
+    "distance": 3.04,
+    "taskStatus": "已分配"
+  },
+  {
+    "taskId": "1560570",
+    "userId": "XC210211",
+    "mainId": null,
+    "sku_order": [
+      {
+        "skuCode": "K6380000082LA",
+        "locationX": 43.909,
+        "locationY": 14.03,
+        "skuPickSpeed": 60,
+        "inspectedQuantity": 1,
+        "taskDetailId": null
+      },
+      {
+        "skuCode": "K6380000082LA",
+        "locationX": 43.909,
+        "locationY": 14.03,
+        "skuPickSpeed": 60,
+        "inspectedQuantity": 1,
+        "taskDetailId": null
+      },
+      {
+        "skuCode": "K6380000082LA",
+        "locationX": 43.909,
+        "locationY": 14.03,
+        "skuPickSpeed": 60,
+        "inspectedQuantity": 5,
+        "taskDetailId": null
+      },
+      {
+        "skuCode": "K6380000082LA",
+        "locationX": 43.909,
+        "locationY": 14.03,
+        "skuPickSpeed": 60,
+        "inspectedQuantity": 1,
+        "taskDetailId": null
+      },
+      {
+        "skuCode": "K6390000194LA",
+        "locationX": 43.909,
+        "locationY": 7.854,
+        "skuPickSpeed": 60,
+        "inspectedQuantity": 1,
+        "taskDetailId": null
+      },
+      {
+        "skuCode": "K6390000194LA",
+        "locationX": 43.909,
+        "locationY": 7.854,
+        "skuPickSpeed": 60,
+        "inspectedQuantity": 5,
+        "taskDetailId": null
+      },
+      {
+        "skuCode": "K6390000209LA",
+        "locationX": 43.909,
+        "locationY": 7.468,
+        "skuPickSpeed": 60,
+        "inspectedQuantity": 5,
+        "taskDetailId": null
+      },
+      {
+        "skuCode": "K6390000210LA",
+        "locationX": 43.909,
+        "locationY": 7.468,
+        "skuPickSpeed": 60,
+        "inspectedQuantity": 2,
+        "taskDetailId": null
+      },
+      {
+        "skuCode": "K6420000163LA",
+        "locationX": 41.68,
+        "locationY": 7.506,
+        "skuPickSpeed": 60,
+        "inspectedQuantity": 5,
+        "taskDetailId": null
+      },
+      {
+        "skuCode": "K6420000163LA",
+        "locationX": 41.68,
+        "locationY": 7.506,
+        "skuPickSpeed": 60,
+        "inspectedQuantity": 1,
+        "taskDetailId": null
+      }
+    ],
+    "predictStartTime": "2025-12-17 10:01:02",
+    "predictStartLocationX": 41.68,
+    "predictStartLocationY": 22.97,
+    "predictCompleteTime": "2025-12-17 10:28:23",
+    "predictCompleteLocationX": 41.68,
+    "predictCompleteLocationY": 7.506,
+    "distance": 25.08,
+    "taskStatus": "已分配"
+  },
+  {
+    "taskId": "1565907",
+    "userId": "XC210211",
+    "mainId": null,
+    "sku_order": [
+      {
+        "skuCode": "K6390000153LA",
+        "locationX": 43.909,
+        "locationY": 12.486,
+        "skuPickSpeed": 60,
+        "inspectedQuantity": 1,
+        "taskDetailId": null
+      },
+      {
+        "skuCode": "K6390000153LA",
+        "locationX": 43.909,
+        "locationY": 12.486,
+        "skuPickSpeed": 60,
+        "inspectedQuantity": 1,
+        "taskDetailId": null
+      },
+      {
+        "skuCode": "K6390000153LA",
+        "locationX": 43.909,
+        "locationY": 12.486,
+        "skuPickSpeed": 60,
+        "inspectedQuantity": 2,
+        "taskDetailId": null
+      },
+      {
+        "skuCode": "K7626000047LA",
+        "locationX": 41.68,
+        "locationY": 19.472,
+        "skuPickSpeed": 60,
+        "inspectedQuantity": 1,
+        "taskDetailId": null
+      }
+    ],
+    "predictStartTime": "2025-12-17 10:28:23",
+    "predictStartLocationX": 41.68,
+    "predictStartLocationY": 7.506,
+    "predictCompleteTime": "2025-12-17 10:33:47",
+    "predictCompleteLocationX": 41.68,
+    "predictCompleteLocationY": 19.472,
+    "distance": 28.64,
+    "taskStatus": "已分配"
+  }
+]

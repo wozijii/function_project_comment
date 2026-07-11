@@ -1,0 +1,5 @@
+numpy>=1.21.0
+ortools>=9.7.2996
+python-dateutil>=2.8.2 
+fastapi>=0.95.0
+uvicorn>=0.22.0

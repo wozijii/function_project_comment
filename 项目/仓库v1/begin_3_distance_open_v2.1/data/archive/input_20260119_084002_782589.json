@@ -1,0 +1,220 @@
+{
+  "simulate": false,
+  "simulate_id": 1768783202,
+  "push_index": 1,
+  "last_push": true,
+  "userInfo": [
+    {
+      "sn": "MT22AM50250900087",
+      "userId": "XC231239",
+      "name": "魏秋容",
+      "userMoveSpeed": 1.2,
+      "area": [],
+      "allocatedTask": [],
+      "pdaLocationX": 8.67,
+      "pdaLocationY": 1.93,
+      "padLocationTime": "2026-01-19 08:14:59"
+    },
+    {
+      "sn": "MT22AM50250900056",
+      "userId": "XC241608",
+      "name": "蒲节",
+      "userMoveSpeed": 1.2,
+      "area": [],
+      "allocatedTask": [
+        {
+          "mainId": 676945,
+          "taskId": "CLCK202512130048",
+          "timeLine": "2026-01-19 18:20:02",
+          "taskStatus": "未开始",
+          "taskPriority": 2,
+          "predictStartTime": "2026-01-19 08:35:01",
+          "predictStartLocationX": 43.44,
+          "predictStartLocationY": 22.86,
+          "predictCompleteTime": "2026-01-19 08:37:09",
+          "predictCompleteLocationX": 20.62,
+          "predictCompleteLocationY": 16.76,
+          "IngredientList": "CLCK202512130048",
+          "skuOrder": [
+            {
+              "taskDetailId": 1420251,
+              "skuCode": "R9512000185LA",
+              "locationX": 20.62,
+              "locationY": 16.76,
+              "skuPickSpeed": 60,
+              "skuOrder": 1
+            }
+          ]
+        }
+      ],
+      "pdaLocationX": 43.47,
+      "pdaLocationY": 22.88,
+      "padLocationTime": "2026-01-19 08:40:01"
+    },
+    {
+      "sn": "MT22AM50250900080",
+      "userId": "XC231579",
+      "name": "滕亮",
+      "userMoveSpeed": 1.2,
+      "area": [],
+      "allocatedTask": [
+        {
+          "mainId": 676946,
+          "taskId": "CLCK202512130048#1055437",
+          "timeLine": "2026-01-19 18:20:02",
+          "taskStatus": "未开始",
+          "taskPriority": 2,
+          "predictStartTime": "2026-01-19 08:34:28",
+          "predictStartLocationX": 2.98,
+          "predictStartLocationY": 29.34,
+          "predictCompleteTime": "2026-01-19 08:36:11",
+          "predictCompleteLocationX": 13.9,
+          "predictCompleteLocationY": 4.18,
+          "IngredientList": "CLCK202512130048",
+          "skuOrder": [
+            {
+              "taskDetailId": 1420252,
+              "skuCode": "R1411210015LA",
+              "locationX": 13.9,
+              "locationY": 4.18,
+              "skuPickSpeed": 60,
+              "skuOrder": 1
+            }
+          ]
+        }
+      ],
+      "pdaLocationX": 3.55,
+      "pdaLocationY": 29.54,
+      "padLocationTime": "2026-01-19 08:39:55"
+    }
+  ],
+  "taskInfo": {
+    "ruleList": [
+      {
+        "ruleName": "就近原则"
+      },
+      {
+        "ruleName": "技能匹配"
+      }
+    ],
+    "taskDetail": [
+      {
+        "IngredientList": "CLCK202601190010",
+        "mainId": 680298,
+        "taskId": "CLCK202601190010#1056698",
+        "taskPriority": 2,
+        "skuList": [
+          {
+            "skuCode": "R8914000038LA",
+            "inspectedQuantity": 2.0,
+            "taskDetailId": 1425019,
+            "locationX": 33.61,
+            "locationY": 3.44,
+            "skuPickSpeed": 60
+          }
+        ],
+        "timeLine": "2026-01-21 08:39:33"
+      },
+      {
+        "IngredientList": "CLCK202601190010",
+        "mainId": 680294,
+        "taskId": "CLCK202601190010",
+        "taskPriority": 2,
+        "skuList": [
+          {
+            "skuCode": "R5440003435LA",
+            "inspectedQuantity": 5500.0,
+            "taskDetailId": 1425015,
+            "locationX": 13.22,
+            "locationY": 10.02,
+            "skuPickSpeed": 60
+          },
+          {
+            "skuCode": "R5440003434LA",
+            "inspectedQuantity": 17271.0,
+            "taskDetailId": 1425011,
+            "locationX": 18.38,
+            "locationY": 10.02,
+            "skuPickSpeed": 60
+          },
+          {
+            "skuCode": "R5440003300LA",
+            "inspectedQuantity": 5000.0,
+            "taskDetailId": 1425012,
+            "locationX": 15.8,
+            "locationY": 10.02,
+            "skuPickSpeed": 60
+          },
+          {
+            "skuCode": "R5440003435LA",
+            "inspectedQuantity": 3115.0,
+            "taskDetailId": 1425013,
+            "locationX": 15.8,
+            "locationY": 10.02,
+            "skuPickSpeed": 60
+          },
+          {
+            "skuCode": "R5440003300LA",
+            "inspectedQuantity": 5500.0,
+            "taskDetailId": 1425014,
+            "locationX": 14.51,
+            "locationY": 10.02,
+            "skuPickSpeed": 60
+          }
+        ],
+        "timeLine": "2026-01-21 08:39:33"
+      },
+      {
+        "IngredientList": "CLCK202601190010",
+        "mainId": 680296,
+        "taskId": "CLCK202601190010#1056699",
+        "taskPriority": 2,
+        "skuList": [
+          {
+            "skuCode": "R3431992470LD",
+            "inspectedQuantity": 8.0,
+            "taskDetailId": 1425017,
+            "locationX": 19.04,
+            "locationY": 22.35,
+            "skuPickSpeed": 60
+          }
+        ],
+        "timeLine": "2026-01-21 08:39:33"
+      },
+      {
+        "IngredientList": "CLCK202601190010",
+        "mainId": 680297,
+        "taskId": "CLCK202601190010#1056697",
+        "taskPriority": 2,
+        "skuList": [
+          {
+            "skuCode": "R7413000003LA",
+            "inspectedQuantity": 3.0,
+            "taskDetailId": 1425018,
+            "locationX": 23.11,
+            "locationY": 3.2,
+            "skuPickSpeed": 60
+          }
+        ],
+        "timeLine": "2026-01-21 08:39:33"
+      },
+      {
+        "IngredientList": "CLCK202601190010",
+        "mainId": 680295,
+        "taskId": "CLCK202601190010#1056700",
+        "taskPriority": 2,
+        "skuList": [
+          {
+            "skuCode": "R3321354100LC",
+            "inspectedQuantity": 7.0,
+            "taskDetailId": 1425016,
+            "locationX": 12.6,
+            "locationY": 22.1,
+            "skuPickSpeed": 60
+          }
+        ],
+        "timeLine": "2026-01-21 08:39:33"
+      }
+    ]
+  }
+}

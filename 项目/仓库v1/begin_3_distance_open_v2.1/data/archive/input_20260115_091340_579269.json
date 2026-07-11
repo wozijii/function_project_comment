@@ -1,0 +1,81 @@
+{
+  "simulate": false,
+  "simulate_id": 1768439620,
+  "push_index": 1,
+  "last_push": true,
+  "userInfo": [
+    {
+      "sn": "MT22AM50250900087",
+      "userId": "XC231239",
+      "name": "魏秋容",
+      "userMoveSpeed": 1.2,
+      "area": [],
+      "allocatedTask": [],
+      "pdaLocationX": 9.03,
+      "pdaLocationY": 13.75,
+      "padLocationTime": "2026-01-15 09:13:38"
+    },
+    {
+      "sn": "MT22AM50250900056",
+      "userId": "XC241608",
+      "name": "蒲节",
+      "userMoveSpeed": 1.2,
+      "area": [],
+      "allocatedTask": [],
+      "pdaLocationX": 43.49,
+      "pdaLocationY": 20.15,
+      "padLocationTime": "2026-01-15 09:13:39"
+    },
+    {
+      "sn": "MT22AM50250900080",
+      "userId": "XC231579",
+      "name": "滕亮",
+      "userMoveSpeed": 1.2,
+      "area": [],
+      "allocatedTask": [],
+      "pdaLocationX": 15.74,
+      "pdaLocationY": 23.63,
+      "padLocationTime": "2026-01-15 09:13:38"
+    },
+    {
+      "sn": "MT22AM50250900037",
+      "userId": "XC240891",
+      "name": "邱菊",
+      "userMoveSpeed": 1.2,
+      "area": [],
+      "allocatedTask": [],
+      "pdaLocationX": 7.62,
+      "pdaLocationY": 12.28,
+      "padLocationTime": "2026-01-14 11:52:40"
+    }
+  ],
+  "taskInfo": {
+    "ruleList": [
+      {
+        "ruleName": "就近原则"
+      },
+      {
+        "ruleName": "技能匹配"
+      }
+    ],
+    "taskDetail": [
+      {
+        "IngredientList": "CLCK202601140183",
+        "mainId": 669907,
+        "taskId": "CLCK202601140183",
+        "taskPriority": 2,
+        "skuList": [
+          {
+            "skuCode": "R4390231024LA",
+            "inspectedQuantity": 1.0,
+            "taskDetailId": 1405024,
+            "locationX": 3.13,
+            "locationY": 6.52,
+            "skuPickSpeed": 60
+          }
+        ],
+        "timeLine": "2026-01-16 20:00:21"
+      }
+    ]
+  }
+}

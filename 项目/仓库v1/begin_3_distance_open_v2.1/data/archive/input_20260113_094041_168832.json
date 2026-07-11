@@ -1,0 +1,195 @@
+{
+  "simulate": false,
+  "simulate_id": 1768268441,
+  "push_index": 1,
+  "last_push": true,
+  "userInfo": [
+    {
+      "sn": "MT22AM50250900037",
+      "userId": "XC240891",
+      "name": "邱菊",
+      "userMoveSpeed": 1.2,
+      "area": [],
+      "allocatedTask": [
+        {
+          "mainId": 662740,
+          "taskId": "CLCK202601130037",
+          "timeLine": "2026-01-15 09:06:20",
+          "taskStatus": "未开始",
+          "taskPriority": 2,
+          "predictStartTime": "2026-01-13 09:06:39",
+          "predictStartLocationX": 32.23,
+          "predictStartLocationY": 12.46,
+          "predictCompleteTime": "2026-01-13 11:39:40",
+          "predictCompleteLocationX": 32.57,
+          "predictCompleteLocationY": 10.02,
+          "IngredientList": "CLCK202601130037",
+          "skuOrder": [
+            {
+              "taskDetailId": 1392002,
+              "skuCode": "R6612000938LA",
+              "locationX": 32.57,
+              "locationY": 10.02,
+              "skuPickSpeed": 60,
+              "skuOrder": 1
+            },
+            {
+              "taskDetailId": 1392004,
+              "skuCode": "R6612000938LA",
+              "locationX": 32.57,
+              "locationY": 10.02,
+              "skuPickSpeed": 60,
+              "skuOrder": 2
+            },
+            {
+              "taskDetailId": 1392000,
+              "skuCode": "R6612000938LA",
+              "locationX": 32.57,
+              "locationY": 10.02,
+              "skuPickSpeed": 60,
+              "skuOrder": 3
+            },
+            {
+              "taskDetailId": 1392001,
+              "skuCode": "R6612000938LA",
+              "locationX": 32.57,
+              "locationY": 10.02,
+              "skuPickSpeed": 60,
+              "skuOrder": 4
+            },
+            {
+              "taskDetailId": 1392003,
+              "skuCode": "R6612000938LA",
+              "locationX": 32.57,
+              "locationY": 10.02,
+              "skuPickSpeed": 60,
+              "skuOrder": 5
+            }
+          ]
+        }
+      ],
+      "pdaLocationX": 10.17,
+      "pdaLocationY": 9.97,
+      "padLocationTime": "2026-01-13 09:40:39"
+    },
+    {
+      "sn": "MT22AM50250900080",
+      "userId": "XC231579",
+      "name": "滕亮",
+      "userMoveSpeed": 1.2,
+      "area": [],
+      "allocatedTask": [],
+      "pdaLocationX": 9.27,
+      "pdaLocationY": 4.51,
+      "padLocationTime": "2026-01-13 09:40:39"
+    },
+    {
+      "sn": "MT22AM50250900087",
+      "userId": "XC231239",
+      "name": "魏秋容",
+      "userMoveSpeed": 1.2,
+      "area": [],
+      "allocatedTask": [
+        {
+          "mainId": 661174,
+          "taskId": "1035421",
+          "timeLine": "2026-01-14 18:13:19",
+          "taskStatus": "未开始",
+          "taskPriority": 1,
+          "predictStartTime": "2026-01-13 09:06:39",
+          "predictStartLocationX": 33.69,
+          "predictStartLocationY": 20.66,
+          "predictCompleteTime": "2026-01-13 09:08:56",
+          "predictCompleteLocationX": 22.86,
+          "predictCompleteLocationY": 11.81,
+          "IngredientList": "XCCK202601120017",
+          "skuOrder": [
+            {
+              "taskDetailId": 1389144,
+              "skuCode": "R4710000065LA",
+              "locationX": 22.86,
+              "locationY": 11.81,
+              "skuPickSpeed": 60,
+              "skuOrder": 1
+            },
+            {
+              "taskDetailId": 1389143,
+              "skuCode": "R4710000065LA",
+              "locationX": 22.86,
+              "locationY": 11.81,
+              "skuPickSpeed": 60,
+              "skuOrder": 2
+            }
+          ]
+        },
+        {
+          "mainId": 661173,
+          "taskId": "1035422",
+          "timeLine": "2026-01-14 18:13:19",
+          "taskStatus": "未开始",
+          "taskPriority": 1,
+          "predictStartTime": "2026-01-13 09:06:38",
+          "predictStartLocationX": 8.24,
+          "predictStartLocationY": 2.56,
+          "predictCompleteTime": "2026-01-13 09:08:00",
+          "predictCompleteLocationX": 20.62,
+          "predictCompleteLocationY": 16.76,
+          "IngredientList": "XCCK202601120017",
+          "skuOrder": [
+            {
+              "taskDetailId": 1389142,
+              "skuCode": "R4710000064LA",
+              "locationX": 20.62,
+              "locationY": 16.76,
+              "skuPickSpeed": 60,
+              "skuOrder": 1
+            }
+          ]
+        }
+      ],
+      "pdaLocationX": 16.71,
+      "pdaLocationY": 10.83,
+      "padLocationTime": "2026-01-13 09:40:39"
+    },
+    {
+      "sn": "MT22AM50250900056",
+      "userId": "XC241608",
+      "name": "蒲节",
+      "userMoveSpeed": 1.2,
+      "area": [],
+      "allocatedTask": [],
+      "pdaLocationX": 42.44,
+      "pdaLocationY": 23.61,
+      "padLocationTime": "2026-01-13 09:40:39"
+    }
+  ],
+  "taskInfo": {
+    "ruleList": [
+      {
+        "ruleName": "就近原则"
+      },
+      {
+        "ruleName": "技能匹配"
+      }
+    ],
+    "taskDetail": [
+      {
+        "IngredientList": "CLCK202601130035",
+        "mainId": 663279,
+        "taskId": "CLCK202601130035",
+        "taskPriority": 2,
+        "skuList": [
+          {
+            "skuCode": "R6610011105LA",
+            "inspectedQuantity": 1.0,
+            "taskDetailId": 1392703,
+            "locationX": 32.57,
+            "locationY": 10.02,
+            "skuPickSpeed": 60
+          }
+        ],
+        "timeLine": "2026-01-15 09:40:03"
+      }
+    ]
+  }
+}

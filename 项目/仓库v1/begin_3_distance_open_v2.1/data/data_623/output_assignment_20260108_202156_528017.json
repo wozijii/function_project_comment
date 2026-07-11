@@ -1,0 +1,472 @@
+[
+  {
+    "taskId": "CLCK202512170004#910294",
+    "userId": "XC210212",
+    "mainId": null,
+    "sku_order": [
+      {
+        "skuCode": "K6220000017LA",
+        "locationX": 51.889,
+        "locationY": 22.47,
+        "skuPickSpeed": 60,
+        "inspectedQuantity": 1,
+        "taskDetailId": null
+      }
+    ],
+    "predictStartTime": "2025-12-17 10:00:00",
+    "predictStartLocationX": 42.0,
+    "predictStartLocationY": 25.5,
+    "predictCompleteTime": "2025-12-17 10:01:10",
+    "predictCompleteLocationX": 51.889,
+    "predictCompleteLocationY": 22.47,
+    "distance": 12.93,
+    "taskStatus": "已分配"
+  },
+  {
+    "taskId": "1562227",
+    "userId": "XC210212",
+    "mainId": null,
+    "sku_order": [
+      {
+        "skuCode": "K6310000543LB",
+        "locationX": 50.864,
+        "locationY": 16.367,
+        "skuPickSpeed": 60,
+        "inspectedQuantity": 2,
+        "taskDetailId": null
+      },
+      {
+        "skuCode": "K6310000541LB",
+        "locationX": 50.864,
+        "locationY": 15.981,
+        "skuPickSpeed": 60,
+        "inspectedQuantity": 5,
+        "taskDetailId": null
+      }
+    ],
+    "predictStartTime": "2025-12-17 10:01:10",
+    "predictStartLocationX": 51.889,
+    "predictStartLocationY": 22.47,
+    "predictCompleteTime": "2025-12-17 10:08:16",
+    "predictCompleteLocationX": 50.864,
+    "predictCompleteLocationY": 15.981,
+    "distance": 7.09,
+    "taskStatus": "已分配"
+  },
+  {
+    "taskId": "1560513",
+    "userId": "XC210212",
+    "mainId": null,
+    "sku_order": [
+      {
+        "skuCode": "K6330000367LA",
+        "locationX": 48.636,
+        "locationY": 21.747,
+        "skuPickSpeed": 60,
+        "inspectedQuantity": 1,
+        "taskDetailId": null
+      },
+      {
+        "skuCode": "K6330000367LA",
+        "locationX": 48.636,
+        "locationY": 21.747,
+        "skuPickSpeed": 60,
+        "inspectedQuantity": 5,
+        "taskDetailId": null
+      },
+      {
+        "skuCode": "K6330000394LA",
+        "locationX": 48.636,
+        "locationY": 19.431,
+        "skuPickSpeed": 60,
+        "inspectedQuantity": 1,
+        "taskDetailId": null
+      },
+      {
+        "skuCode": "K6330000394LA",
+        "locationX": 48.636,
+        "locationY": 19.431,
+        "skuPickSpeed": 60,
+        "inspectedQuantity": 5,
+        "taskDetailId": null
+      },
+      {
+        "skuCode": "K6330000394LA",
+        "locationX": 48.636,
+        "locationY": 19.431,
+        "skuPickSpeed": 60,
+        "inspectedQuantity": 2,
+        "taskDetailId": null
+      },
+      {
+        "skuCode": "K6330000394LA",
+        "locationX": 48.636,
+        "locationY": 19.431,
+        "skuPickSpeed": 60,
+        "inspectedQuantity": 1,
+        "taskDetailId": null
+      },
+      {
+        "skuCode": "K6310000821LA",
+        "locationX": 49.65,
+        "locationY": 19.069,
+        "skuPickSpeed": 60,
+        "inspectedQuantity": 1,
+        "taskDetailId": null
+      },
+      {
+        "skuCode": "K6310000821LA",
+        "locationX": 49.65,
+        "locationY": 19.069,
+        "skuPickSpeed": 60,
+        "inspectedQuantity": 5,
+        "taskDetailId": null
+      },
+      {
+        "skuCode": "K6310000822LA",
+        "locationX": 49.65,
+        "locationY": 18.683,
+        "skuPickSpeed": 60,
+        "inspectedQuantity": 1,
+        "taskDetailId": null
+      },
+      {
+        "skuCode": "K6310000822LA",
+        "locationX": 49.65,
+        "locationY": 18.683,
+        "skuPickSpeed": 60,
+        "inspectedQuantity": 5,
+        "taskDetailId": null
+      },
+      {
+        "skuCode": "K6310000824LA",
+        "locationX": 49.65,
+        "locationY": 18.683,
+        "skuPickSpeed": 60,
+        "inspectedQuantity": 5,
+        "taskDetailId": null
+      },
+      {
+        "skuCode": "K6310000824LA",
+        "locationX": 49.65,
+        "locationY": 18.683,
+        "skuPickSpeed": 60,
+        "inspectedQuantity": 1,
+        "taskDetailId": null
+      },
+      {
+        "skuCode": "K6310000826LA",
+        "locationX": 49.65,
+        "locationY": 18.297,
+        "skuPickSpeed": 60,
+        "inspectedQuantity": 5,
+        "taskDetailId": null
+      },
+      {
+        "skuCode": "K6310000826LA",
+        "locationX": 49.65,
+        "locationY": 18.297,
+        "skuPickSpeed": 60,
+        "inspectedQuantity": 1,
+        "taskDetailId": null
+      },
+      {
+        "skuCode": "K6310000825LA",
+        "locationX": 49.65,
+        "locationY": 18.297,
+        "skuPickSpeed": 60,
+        "inspectedQuantity": 5,
+        "taskDetailId": null
+      },
+      {
+        "skuCode": "K6310000825LA",
+        "locationX": 49.65,
+        "locationY": 18.297,
+        "skuPickSpeed": 60,
+        "inspectedQuantity": 1,
+        "taskDetailId": null
+      },
+      {
+        "skuCode": "K6310000825LA",
+        "locationX": 49.65,
+        "locationY": 18.297,
+        "skuPickSpeed": 60,
+        "inspectedQuantity": 1,
+        "taskDetailId": null
+      },
+      {
+        "skuCode": "K6330000394LA",
+        "locationX": 47.619,
+        "locationY": 3.051,
+        "skuPickSpeed": 60,
+        "inspectedQuantity": 5,
+        "taskDetailId": null
+      }
+    ],
+    "predictStartTime": "2025-12-17 10:08:16",
+    "predictStartLocationX": 50.864,
+    "predictStartLocationY": 15.981,
+    "predictCompleteTime": "2025-12-17 10:59:43",
+    "predictCompleteLocationX": 47.619,
+    "predictCompleteLocationY": 3.051,
+    "distance": 31.92,
+    "taskStatus": "已分配"
+  },
+  {
+    "taskId": "1562000",
+    "userId": "XC210212",
+    "mainId": null,
+    "sku_order": [
+      {
+        "skuCode": "K6310000539LB",
+        "locationX": 50.864,
+        "locationY": 15.209,
+        "skuPickSpeed": 60,
+        "inspectedQuantity": 2,
+        "taskDetailId": null
+      }
+    ],
+    "predictStartTime": "2025-12-17 10:59:43",
+    "predictStartLocationX": 47.619,
+    "predictStartLocationY": 3.051,
+    "predictCompleteTime": "2025-12-17 11:01:56",
+    "predictCompleteLocationX": 50.864,
+    "predictCompleteLocationY": 15.209,
+    "distance": 15.97,
+    "taskStatus": "已分配"
+  },
+  {
+    "taskId": "1563342",
+    "userId": "XC210212",
+    "mainId": null,
+    "sku_order": [
+      {
+        "skuCode": "K6330000320LA",
+        "locationX": 48.636,
+        "locationY": 16.343,
+        "skuPickSpeed": 60,
+        "inspectedQuantity": 1,
+        "taskDetailId": null
+      }
+    ],
+    "predictStartTime": "2025-12-17 11:01:56",
+    "predictStartLocationX": 50.864,
+    "predictStartLocationY": 15.209,
+    "predictCompleteTime": "2025-12-17 11:03:10",
+    "predictCompleteLocationX": 48.636,
+    "predictCompleteLocationY": 16.343,
+    "distance": 17.24,
+    "taskStatus": "已分配"
+  },
+  {
+    "taskId": "1562237",
+    "userId": "XC210212",
+    "mainId": null,
+    "sku_order": [
+      {
+        "skuCode": "K6330000204LB",
+        "locationX": 48.636,
+        "locationY": 12.097,
+        "skuPickSpeed": 60,
+        "inspectedQuantity": 2,
+        "taskDetailId": null
+      }
+    ],
+    "predictStartTime": "2025-12-17 11:03:10",
+    "predictStartLocationX": 48.636,
+    "predictStartLocationY": 16.343,
+    "predictCompleteTime": "2025-12-17 11:05:14",
+    "predictCompleteLocationX": 48.636,
+    "predictCompleteLocationY": 12.097,
+    "distance": 4.06,
+    "taskStatus": "已分配"
+  },
+  {
+    "taskId": "1565907",
+    "userId": "XC210212",
+    "mainId": null,
+    "sku_order": [
+      {
+        "skuCode": "K6390000153LA",
+        "locationX": 43.909,
+        "locationY": 12.486,
+        "skuPickSpeed": 60,
+        "inspectedQuantity": 2,
+        "taskDetailId": null
+      },
+      {
+        "skuCode": "K6390000153LA",
+        "locationX": 43.909,
+        "locationY": 12.486,
+        "skuPickSpeed": 60,
+        "inspectedQuantity": 1,
+        "taskDetailId": null
+      },
+      {
+        "skuCode": "K6390000153LA",
+        "locationX": 43.909,
+        "locationY": 12.486,
+        "skuPickSpeed": 60,
+        "inspectedQuantity": 1,
+        "taskDetailId": null
+      },
+      {
+        "skuCode": "K7626000047LA",
+        "locationX": 41.68,
+        "locationY": 19.472,
+        "skuPickSpeed": 60,
+        "inspectedQuantity": 1,
+        "taskDetailId": null
+      }
+    ],
+    "predictStartTime": "2025-12-17 11:05:14",
+    "predictStartLocationX": 48.636,
+    "predictStartLocationY": 12.097,
+    "predictCompleteTime": "2025-12-17 11:10:44",
+    "predictCompleteLocationX": 41.68,
+    "predictCompleteLocationY": 19.472,
+    "distance": 36.49,
+    "taskStatus": "已分配"
+  },
+  {
+    "taskId": "1562090",
+    "userId": "XC210212",
+    "mainId": null,
+    "sku_order": [
+      {
+        "skuCode": "K6330000529LA",
+        "locationX": 48.636,
+        "locationY": 5.921,
+        "skuPickSpeed": 60,
+        "inspectedQuantity": 5,
+        "taskDetailId": null
+      }
+    ],
+    "predictStartTime": "2025-12-17 11:10:44",
+    "predictStartLocationX": 41.68,
+    "predictStartLocationY": 19.472,
+    "predictCompleteTime": "2025-12-17 11:16:02",
+    "predictCompleteLocationX": 48.636,
+    "predictCompleteLocationY": 5.921,
+    "distance": 21.55,
+    "taskStatus": "已分配"
+  },
+  {
+    "taskId": "1560570",
+    "userId": "XC210212",
+    "mainId": null,
+    "sku_order": [
+      {
+        "skuCode": "K6420000163LA",
+        "locationX": 41.68,
+        "locationY": 7.506,
+        "skuPickSpeed": 60,
+        "inspectedQuantity": 5,
+        "taskDetailId": null
+      },
+      {
+        "skuCode": "K6420000163LA",
+        "locationX": 41.68,
+        "locationY": 7.506,
+        "skuPickSpeed": 60,
+        "inspectedQuantity": 1,
+        "taskDetailId": null
+      },
+      {
+        "skuCode": "K6390000210LA",
+        "locationX": 43.909,
+        "locationY": 7.468,
+        "skuPickSpeed": 60,
+        "inspectedQuantity": 2,
+        "taskDetailId": null
+      },
+      {
+        "skuCode": "K6390000209LA",
+        "locationX": 43.909,
+        "locationY": 7.468,
+        "skuPickSpeed": 60,
+        "inspectedQuantity": 5,
+        "taskDetailId": null
+      },
+      {
+        "skuCode": "K6390000194LA",
+        "locationX": 43.909,
+        "locationY": 7.854,
+        "skuPickSpeed": 60,
+        "inspectedQuantity": 5,
+        "taskDetailId": null
+      },
+      {
+        "skuCode": "K6390000194LA",
+        "locationX": 43.909,
+        "locationY": 7.854,
+        "skuPickSpeed": 60,
+        "inspectedQuantity": 1,
+        "taskDetailId": null
+      },
+      {
+        "skuCode": "K6380000082LA",
+        "locationX": 43.909,
+        "locationY": 14.03,
+        "skuPickSpeed": 60,
+        "inspectedQuantity": 1,
+        "taskDetailId": null
+      },
+      {
+        "skuCode": "K6380000082LA",
+        "locationX": 43.909,
+        "locationY": 14.03,
+        "skuPickSpeed": 60,
+        "inspectedQuantity": 1,
+        "taskDetailId": null
+      },
+      {
+        "skuCode": "K6380000082LA",
+        "locationX": 43.909,
+        "locationY": 14.03,
+        "skuPickSpeed": 60,
+        "inspectedQuantity": 1,
+        "taskDetailId": null
+      },
+      {
+        "skuCode": "K6380000082LA",
+        "locationX": 43.909,
+        "locationY": 14.03,
+        "skuPickSpeed": 60,
+        "inspectedQuantity": 5,
+        "taskDetailId": null
+      }
+    ],
+    "predictStartTime": "2025-12-17 11:16:02",
+    "predictStartLocationX": 48.636,
+    "predictStartLocationY": 5.921,
+    "predictCompleteTime": "2025-12-17 11:43:21",
+    "predictCompleteLocationX": 43.909,
+    "predictCompleteLocationY": 14.03,
+    "distance": 22.8,
+    "taskStatus": "已分配"
+  },
+  {
+    "taskId": "CLCK202512170012",
+    "userId": "XC241596",
+    "mainId": null,
+    "sku_order": [
+      {
+        "skuCode": "K7626000004LA",
+        "locationX": 41.68,
+        "locationY": 22.97,
+        "skuPickSpeed": 60,
+        "inspectedQuantity": 1,
+        "taskDetailId": null
+      }
+    ],
+    "predictStartTime": "2025-12-17 10:00:00",
+    "predictStartLocationX": 42.0,
+    "predictStartLocationY": 25.5,
+    "predictCompleteTime": "2025-12-17 10:01:02",
+    "predictCompleteLocationX": 41.68,
+    "predictCompleteLocationY": 22.97,
+    "distance": 3.04,
+    "taskStatus": "已分配"
+  }
+]

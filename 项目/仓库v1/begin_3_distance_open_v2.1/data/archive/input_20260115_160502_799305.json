@@ -1,0 +1,216 @@
+{
+  "simulate": false,
+  "simulate_id": 1768464302,
+  "push_index": 1,
+  "last_push": true,
+  "userInfo": [
+    {
+      "sn": "MT22AM50250900087",
+      "userId": "XC231239",
+      "name": "魏秋容",
+      "userMoveSpeed": 1.2,
+      "area": [],
+      "allocatedTask": [],
+      "pdaLocationX": 7.95,
+      "pdaLocationY": 12.58,
+      "padLocationTime": "2026-01-15 16:05:01"
+    },
+    {
+      "sn": "MT22AM50250900056",
+      "userId": "XC241608",
+      "name": "蒲节",
+      "userMoveSpeed": 1.2,
+      "area": [],
+      "allocatedTask": [
+        {
+          "mainId": 672029,
+          "taskId": "CLCK202601150116#1048182",
+          "timeLine": "2026-01-17 15:42:14",
+          "taskStatus": "未开始",
+          "taskPriority": 1,
+          "predictStartTime": "2026-01-15 17:13:38",
+          "predictStartLocationX": 18.55,
+          "predictStartLocationY": 2.22,
+          "predictCompleteTime": "2026-01-15 17:14:48",
+          "predictCompleteLocationX": 23.11,
+          "predictCompleteLocationY": 2.46,
+          "IngredientList": "CLCK202601150116",
+          "skuOrder": [
+            {
+              "taskDetailId": 1408714,
+              "skuCode": "R2810010056LA",
+              "locationX": 23.11,
+              "locationY": 2.46,
+              "skuPickSpeed": 60,
+              "skuOrder": 1
+            }
+          ]
+        },
+        {
+          "mainId": 672025,
+          "taskId": "CLCK202601150116",
+          "timeLine": "2026-01-17 15:42:14",
+          "taskStatus": "未开始",
+          "taskPriority": 2,
+          "predictStartTime": "2026-01-15 15:53:59",
+          "predictStartLocationX": 28.49,
+          "predictStartLocationY": 18.18,
+          "predictCompleteTime": "2026-01-15 15:55:15",
+          "predictCompleteLocationX": 33.2,
+          "predictCompleteLocationY": 13.3,
+          "IngredientList": "CLCK202601150116",
+          "skuOrder": [
+            {
+              "taskDetailId": 1408706,
+              "skuCode": "R3311961470LA",
+              "locationX": 33.2,
+              "locationY": 13.3,
+              "skuPickSpeed": 60,
+              "skuOrder": 1
+            }
+          ]
+        },
+        {
+          "mainId": 672028,
+          "taskId": "CLCK202601150116#1048184",
+          "timeLine": "2026-01-17 15:42:14",
+          "taskStatus": "未开始",
+          "taskPriority": 1,
+          "predictStartTime": "2026-01-15 17:11:26",
+          "predictStartLocationX": 11.59,
+          "predictStartLocationY": 3.69,
+          "predictCompleteTime": "2026-01-15 17:13:38",
+          "predictCompleteLocationX": 18.55,
+          "predictCompleteLocationY": 2.22,
+          "IngredientList": "CLCK202601150116",
+          "skuOrder": [
+            {
+              "taskDetailId": 1408712,
+              "skuCode": "R1150050087LA",
+              "locationX": 18.55,
+              "locationY": 3.44,
+              "skuPickSpeed": 60,
+              "skuOrder": 1
+            },
+            {
+              "taskDetailId": 1408713,
+              "skuCode": "R2810010037LA",
+              "locationX": 18.55,
+              "locationY": 2.22,
+              "skuPickSpeed": 60,
+              "skuOrder": 2
+            }
+          ]
+        }
+      ],
+      "pdaLocationX": 41.12,
+      "pdaLocationY": 9.85,
+      "padLocationTime": "2026-01-15 16:05:02"
+    },
+    {
+      "sn": "MT22AM50250900080",
+      "userId": "XC231579",
+      "name": "滕亮",
+      "userMoveSpeed": 1.2,
+      "area": [],
+      "allocatedTask": [
+        {
+          "mainId": 672057,
+          "taskId": "CLCK202601150118#1048197",
+          "timeLine": "2026-01-17 15:45:00",
+          "taskStatus": "未开始",
+          "taskPriority": 2,
+          "predictStartTime": "2026-01-15 15:46:01",
+          "predictStartLocationX": 9.02,
+          "predictStartLocationY": 10.62,
+          "predictCompleteTime": "2026-01-15 17:08:18",
+          "predictCompleteLocationX": 16.46,
+          "predictCompleteLocationY": 6.06,
+          "IngredientList": "CLCK202601150118",
+          "skuOrder": [
+            {
+              "taskDetailId": 1408746,
+              "skuCode": "R7110000051LA",
+              "locationX": 12.71,
+              "locationY": 6.06,
+              "skuPickSpeed": 60,
+              "skuOrder": 1
+            },
+            {
+              "taskDetailId": 1408745,
+              "skuCode": "R7110000040LA",
+              "locationX": 16.46,
+              "locationY": 6.06,
+              "skuPickSpeed": 60,
+              "skuOrder": 2
+            }
+          ]
+        },
+        {
+          "mainId": 672056,
+          "taskId": "CLCK202601150118",
+          "timeLine": "2026-01-17 15:45:00",
+          "taskStatus": "未开始",
+          "taskPriority": 2,
+          "predictStartTime": "2026-01-15 17:14:48",
+          "predictStartLocationX": 23.11,
+          "predictStartLocationY": 2.46,
+          "predictCompleteTime": "2026-01-15 17:17:05",
+          "predictCompleteLocationX": 32.63,
+          "predictCompleteLocationY": 3.2,
+          "IngredientList": "CLCK202601150118",
+          "skuOrder": [
+            {
+              "taskDetailId": 1408743,
+              "skuCode": "R7110000040LA",
+              "locationX": 32.63,
+              "locationY": 3.2,
+              "skuPickSpeed": 60,
+              "skuOrder": 1
+            },
+            {
+              "taskDetailId": 1408744,
+              "skuCode": "R7110000040LA",
+              "locationX": 32.63,
+              "locationY": 3.2,
+              "skuPickSpeed": 60,
+              "skuOrder": 2
+            }
+          ]
+        }
+      ],
+      "pdaLocationX": 9.54,
+      "pdaLocationY": 10.88,
+      "padLocationTime": "2026-01-15 16:05:01"
+    }
+  ],
+  "taskInfo": {
+    "ruleList": [
+      {
+        "ruleName": "就近原则"
+      },
+      {
+        "ruleName": "技能匹配"
+      }
+    ],
+    "taskDetail": [
+      {
+        "IngredientList": "CLCK202601150129",
+        "mainId": 672129,
+        "taskId": "CLCK202601150129",
+        "taskPriority": 2,
+        "skuList": [
+          {
+            "skuCode": "R6610011174LA",
+            "inspectedQuantity": 1.0,
+            "taskDetailId": 1408843,
+            "locationX": 32.57,
+            "locationY": 10.02,
+            "skuPickSpeed": 60
+          }
+        ],
+        "timeLine": "2026-01-17 16:03:58"
+      }
+    ]
+  }
+}

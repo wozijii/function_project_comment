@@ -1,0 +1,4585 @@
+{
+  "simulate": false,
+  "simulate_id": 1768553162,
+  "push_index": 1,
+  "last_push": true,
+  "userInfo": [
+    {
+      "sn": "MT22AM50250900087",
+      "userId": "XC231239",
+      "name": "魏秋容",
+      "userMoveSpeed": 1.2,
+      "area": [],
+      "allocatedTask": [
+        {
+          "mainId": 674581,
+          "taskId": "CLCK202601160022#1052193",
+          "timeLine": "2026-01-18 16:36:55",
+          "taskStatus": "未开始",
+          "taskPriority": 2,
+          "predictStartTime": "2026-01-16 20:06:34",
+          "predictStartLocationX": 11.51,
+          "predictStartLocationY": 6.06,
+          "predictCompleteTime": "2026-01-16 20:24:03",
+          "predictCompleteLocationX": 30.27,
+          "predictCompleteLocationY": 3.2,
+          "IngredientList": "CLCK202601160022",
+          "skuOrder": [
+            {
+              "taskDetailId": 1414104,
+              "skuCode": "R8210000002LA",
+              "locationX": 30.27,
+              "locationY": 3.93,
+              "skuPickSpeed": 60,
+              "skuOrder": 1
+            },
+            {
+              "taskDetailId": 1414101,
+              "skuCode": "R1142110033LA",
+              "locationX": 30.27,
+              "locationY": 4.18,
+              "skuPickSpeed": 60,
+              "skuOrder": 2
+            },
+            {
+              "taskDetailId": 1414103,
+              "skuCode": "R1152030088LA",
+              "locationX": 30.27,
+              "locationY": 4.18,
+              "skuPickSpeed": 60,
+              "skuOrder": 3
+            },
+            {
+              "taskDetailId": 1414102,
+              "skuCode": "R1110022010LA",
+              "locationX": 31.41,
+              "locationY": 4.42,
+              "skuPickSpeed": 60,
+              "skuOrder": 4
+            },
+            {
+              "taskDetailId": 1414107,
+              "skuCode": "R1198020002LA",
+              "locationX": 31.41,
+              "locationY": 4.18,
+              "skuPickSpeed": 60,
+              "skuOrder": 5
+            },
+            {
+              "taskDetailId": 1414108,
+              "skuCode": "R1152030088LA",
+              "locationX": 31.41,
+              "locationY": 3.93,
+              "skuPickSpeed": 60,
+              "skuOrder": 6
+            },
+            {
+              "taskDetailId": 1414111,
+              "skuCode": "R1198020002LA",
+              "locationX": 31.41,
+              "locationY": 3.69,
+              "skuPickSpeed": 60,
+              "skuOrder": 7
+            },
+            {
+              "taskDetailId": 1414105,
+              "skuCode": "R1162010027LA",
+              "locationX": 31.41,
+              "locationY": 3.44,
+              "skuPickSpeed": 60,
+              "skuOrder": 8
+            },
+            {
+              "taskDetailId": 1414110,
+              "skuCode": "R1152012037LA",
+              "locationX": 31.41,
+              "locationY": 2.95,
+              "skuPickSpeed": 60,
+              "skuOrder": 9
+            },
+            {
+              "taskDetailId": 1414106,
+              "skuCode": "R8210000001LA",
+              "locationX": 30.27,
+              "locationY": 3.2,
+              "skuPickSpeed": 60,
+              "skuOrder": 10
+            },
+            {
+              "taskDetailId": 1414109,
+              "skuCode": "R1152000147LA",
+              "locationX": 30.27,
+              "locationY": 3.2,
+              "skuPickSpeed": 60,
+              "skuOrder": 11
+            }
+          ]
+        },
+        {
+          "mainId": 674578,
+          "taskId": "CLCK202601160022#1052272",
+          "timeLine": "2026-01-18 16:36:55",
+          "taskStatus": "未开始",
+          "taskPriority": 2,
+          "predictStartTime": "2026-01-16 16:37:01",
+          "predictStartLocationX": 7.29,
+          "predictStartLocationY": 9.34,
+          "predictCompleteTime": "2026-01-16 18:24:35",
+          "predictCompleteLocationX": 23.11,
+          "predictCompleteLocationY": 4.42,
+          "IngredientList": "CLCK202601160022",
+          "skuOrder": [
+            {
+              "taskDetailId": 1414049,
+              "skuCode": "R2810020034LA",
+              "locationX": 22.03,
+              "locationY": 4.18,
+              "skuPickSpeed": 60,
+              "skuOrder": 1
+            },
+            {
+              "taskDetailId": 1414077,
+              "skuCode": "R1411160004LA",
+              "locationX": 22.03,
+              "locationY": 3.69,
+              "skuPickSpeed": 60,
+              "skuOrder": 2
+            },
+            {
+              "taskDetailId": 1414080,
+              "skuCode": "R2711000038LA",
+              "locationX": 22.03,
+              "locationY": 3.44,
+              "skuPickSpeed": 60,
+              "skuOrder": 3
+            },
+            {
+              "taskDetailId": 1414053,
+              "skuCode": "R8913000006LA",
+              "locationX": 22.03,
+              "locationY": 3.2,
+              "skuPickSpeed": 60,
+              "skuOrder": 4
+            },
+            {
+              "taskDetailId": 1414067,
+              "skuCode": "R2715010046LA",
+              "locationX": 22.03,
+              "locationY": 3.2,
+              "skuPickSpeed": 60,
+              "skuOrder": 5
+            },
+            {
+              "taskDetailId": 1414052,
+              "skuCode": "R8913000006LA",
+              "locationX": 22.03,
+              "locationY": 3.2,
+              "skuPickSpeed": 60,
+              "skuOrder": 6
+            },
+            {
+              "taskDetailId": 1414068,
+              "skuCode": "R1110061047LA",
+              "locationX": 22.03,
+              "locationY": 2.71,
+              "skuPickSpeed": 60,
+              "skuOrder": 7
+            },
+            {
+              "taskDetailId": 1414081,
+              "skuCode": "R2810020034LA",
+              "locationX": 22.03,
+              "locationY": 2.71,
+              "skuPickSpeed": 60,
+              "skuOrder": 8
+            },
+            {
+              "taskDetailId": 1414069,
+              "skuCode": "R2211602718LA",
+              "locationX": 22.03,
+              "locationY": 2.46,
+              "skuPickSpeed": 60,
+              "skuOrder": 9
+            },
+            {
+              "taskDetailId": 1414070,
+              "skuCode": "R2810010003LB",
+              "locationX": 22.03,
+              "locationY": 2.22,
+              "skuPickSpeed": 60,
+              "skuOrder": 10
+            },
+            {
+              "taskDetailId": 1414071,
+              "skuCode": "R2710110009LA",
+              "locationX": 22.03,
+              "locationY": 1.97,
+              "skuPickSpeed": 60,
+              "skuOrder": 11
+            },
+            {
+              "taskDetailId": 1414073,
+              "skuCode": "R2211602690LA",
+              "locationX": 22.03,
+              "locationY": 1.73,
+              "skuPickSpeed": 60,
+              "skuOrder": 12
+            },
+            {
+              "taskDetailId": 1414064,
+              "skuCode": "R1152030080LA",
+              "locationX": 22.03,
+              "locationY": 1.48,
+              "skuPickSpeed": 60,
+              "skuOrder": 13
+            },
+            {
+              "taskDetailId": 1414074,
+              "skuCode": "R2211602719LA",
+              "locationX": 22.03,
+              "locationY": 1.48,
+              "skuPickSpeed": 60,
+              "skuOrder": 14
+            },
+            {
+              "taskDetailId": 1414063,
+              "skuCode": "R2211602688LA",
+              "locationX": 22.03,
+              "locationY": 1.73,
+              "skuPickSpeed": 60,
+              "skuOrder": 15
+            },
+            {
+              "taskDetailId": 1414058,
+              "skuCode": "R2815020087LA",
+              "locationX": 23.11,
+              "locationY": 1.73,
+              "skuPickSpeed": 60,
+              "skuOrder": 16
+            },
+            {
+              "taskDetailId": 1414056,
+              "skuCode": "R2815020087LA",
+              "locationX": 23.11,
+              "locationY": 1.73,
+              "skuPickSpeed": 60,
+              "skuOrder": 17
+            },
+            {
+              "taskDetailId": 1414072,
+              "skuCode": "R2810010054LA",
+              "locationX": 23.11,
+              "locationY": 1.73,
+              "skuPickSpeed": 60,
+              "skuOrder": 18
+            },
+            {
+              "taskDetailId": 1414057,
+              "skuCode": "R2815020087LA",
+              "locationX": 23.11,
+              "locationY": 1.73,
+              "skuPickSpeed": 60,
+              "skuOrder": 19
+            },
+            {
+              "taskDetailId": 1414075,
+              "skuCode": "R7311000003LA",
+              "locationX": 23.11,
+              "locationY": 1.24,
+              "skuPickSpeed": 60,
+              "skuOrder": 20
+            },
+            {
+              "taskDetailId": 1414076,
+              "skuCode": "R2814010006LB",
+              "locationX": 23.11,
+              "locationY": 0.75,
+              "skuPickSpeed": 60,
+              "skuOrder": 21
+            },
+            {
+              "taskDetailId": 1414055,
+              "skuCode": "R2715010047LA",
+              "locationX": 23.11,
+              "locationY": 1.97,
+              "skuPickSpeed": 60,
+              "skuOrder": 22
+            },
+            {
+              "taskDetailId": 1414054,
+              "skuCode": "R2715010047LA",
+              "locationX": 23.11,
+              "locationY": 1.97,
+              "skuPickSpeed": 60,
+              "skuOrder": 23
+            },
+            {
+              "taskDetailId": 1414062,
+              "skuCode": "R2815020029LA",
+              "locationX": 23.11,
+              "locationY": 2.22,
+              "skuPickSpeed": 60,
+              "skuOrder": 24
+            },
+            {
+              "taskDetailId": 1414082,
+              "skuCode": "R2220160174LA",
+              "locationX": 23.11,
+              "locationY": 2.22,
+              "skuPickSpeed": 60,
+              "skuOrder": 25
+            },
+            {
+              "taskDetailId": 1414061,
+              "skuCode": "R2810020042LA",
+              "locationX": 23.11,
+              "locationY": 2.95,
+              "skuPickSpeed": 60,
+              "skuOrder": 26
+            },
+            {
+              "taskDetailId": 1414065,
+              "skuCode": "R2715010045LA",
+              "locationX": 23.11,
+              "locationY": 3.2,
+              "skuPickSpeed": 60,
+              "skuOrder": 27
+            },
+            {
+              "taskDetailId": 1414066,
+              "skuCode": "R2715010045LA",
+              "locationX": 23.11,
+              "locationY": 3.2,
+              "skuPickSpeed": 60,
+              "skuOrder": 28
+            },
+            {
+              "taskDetailId": 1414079,
+              "skuCode": "R2715010048LA",
+              "locationX": 23.11,
+              "locationY": 3.44,
+              "skuPickSpeed": 60,
+              "skuOrder": 29
+            },
+            {
+              "taskDetailId": 1414078,
+              "skuCode": "R2715010048LA",
+              "locationX": 23.11,
+              "locationY": 3.44,
+              "skuPickSpeed": 60,
+              "skuOrder": 30
+            },
+            {
+              "taskDetailId": 1414051,
+              "skuCode": "R1180040150LA",
+              "locationX": 23.11,
+              "locationY": 3.69,
+              "skuPickSpeed": 60,
+              "skuOrder": 31
+            },
+            {
+              "taskDetailId": 1414060,
+              "skuCode": "R7311000001LA",
+              "locationX": 23.11,
+              "locationY": 3.69,
+              "skuPickSpeed": 60,
+              "skuOrder": 32
+            },
+            {
+              "taskDetailId": 1414050,
+              "skuCode": "R8912000043LA",
+              "locationX": 23.11,
+              "locationY": 3.93,
+              "skuPickSpeed": 60,
+              "skuOrder": 33
+            },
+            {
+              "taskDetailId": 1414059,
+              "skuCode": "R8912000045LA",
+              "locationX": 23.11,
+              "locationY": 4.42,
+              "skuPickSpeed": 60,
+              "skuOrder": 34
+            }
+          ]
+        },
+        {
+          "mainId": 674582,
+          "taskId": "CLCK202601160022#1052340",
+          "timeLine": "2026-01-18 16:36:55",
+          "taskStatus": "未开始",
+          "taskPriority": 2,
+          "predictStartTime": "2026-01-16 20:24:03",
+          "predictStartLocationX": 30.27,
+          "predictStartLocationY": 3.2,
+          "predictCompleteTime": "2026-01-16 20:35:09",
+          "predictCompleteLocationX": 33.61,
+          "predictCompleteLocationY": 4.42,
+          "IngredientList": "CLCK202601160022",
+          "skuOrder": [
+            {
+              "taskDetailId": 1414113,
+              "skuCode": "R2715020021LA",
+              "locationX": 32.63,
+              "locationY": 4.42,
+              "skuPickSpeed": 60,
+              "skuOrder": 1
+            },
+            {
+              "taskDetailId": 1414117,
+              "skuCode": "R8210000007LA",
+              "locationX": 32.63,
+              "locationY": 3.93,
+              "skuPickSpeed": 60,
+              "skuOrder": 2
+            },
+            {
+              "taskDetailId": 1414119,
+              "skuCode": "R2715020021LA",
+              "locationX": 32.63,
+              "locationY": 3.69,
+              "skuPickSpeed": 60,
+              "skuOrder": 3
+            },
+            {
+              "taskDetailId": 1414118,
+              "skuCode": "R8210000001LA",
+              "locationX": 33.61,
+              "locationY": 3.69,
+              "skuPickSpeed": 60,
+              "skuOrder": 4
+            },
+            {
+              "taskDetailId": 1414116,
+              "skuCode": "R8210000002LA",
+              "locationX": 33.61,
+              "locationY": 4.18,
+              "skuPickSpeed": 60,
+              "skuOrder": 5
+            },
+            {
+              "taskDetailId": 1414114,
+              "skuCode": "R2816000018LA",
+              "locationX": 33.61,
+              "locationY": 4.18,
+              "skuPickSpeed": 60,
+              "skuOrder": 6
+            },
+            {
+              "taskDetailId": 1414112,
+              "skuCode": "R7110000053LA",
+              "locationX": 33.61,
+              "locationY": 3.93,
+              "skuPickSpeed": 60,
+              "skuOrder": 7
+            },
+            {
+              "taskDetailId": 1414115,
+              "skuCode": "R2816000018LA",
+              "locationX": 33.61,
+              "locationY": 4.42,
+              "skuPickSpeed": 60,
+              "skuOrder": 8
+            }
+          ]
+        },
+        {
+          "mainId": 674580,
+          "taskId": "CLCK202601160022#1052319",
+          "timeLine": "2026-01-18 16:36:55",
+          "taskStatus": "未开始",
+          "taskPriority": 2,
+          "predictStartTime": "2026-01-16 18:50:44",
+          "predictStartLocationX": 25.38,
+          "predictStartLocationY": 0.93,
+          "predictCompleteTime": "2026-01-16 18:53:55",
+          "predictCompleteLocationX": 29.05,
+          "predictCompleteLocationY": 3.93,
+          "IngredientList": "CLCK202601160022",
+          "skuOrder": [
+            {
+              "taskDetailId": 1414100,
+              "skuCode": "R1142060077LA",
+              "locationX": 26.6,
+              "locationY": 4.42,
+              "skuPickSpeed": 60,
+              "skuOrder": 1
+            },
+            {
+              "taskDetailId": 1414099,
+              "skuCode": "R1115100306LA",
+              "locationX": 26.6,
+              "locationY": 3.44,
+              "skuPickSpeed": 60,
+              "skuOrder": 2
+            },
+            {
+              "taskDetailId": 1414098,
+              "skuCode": "R1124010015LA",
+              "locationX": 29.05,
+              "locationY": 3.93,
+              "skuPickSpeed": 60,
+              "skuOrder": 3
+            }
+          ]
+        },
+        {
+          "mainId": 674583,
+          "taskId": "CLCK202601160022#1052363",
+          "timeLine": "2026-01-18 16:36:55",
+          "taskStatus": "未开始",
+          "taskPriority": 2,
+          "predictStartTime": "2026-01-16 18:53:55",
+          "predictStartLocationX": 29.05,
+          "predictStartLocationY": 3.93,
+          "predictCompleteTime": "2026-01-16 20:06:34",
+          "predictCompleteLocationX": 11.51,
+          "predictCompleteLocationY": 6.06,
+          "IngredientList": "CLCK202601160022",
+          "skuOrder": [
+            {
+              "taskDetailId": 1414125,
+              "skuCode": "R8210000007LA",
+              "locationX": 30.55,
+              "locationY": 6.06,
+              "skuPickSpeed": 60,
+              "skuOrder": 1
+            },
+            {
+              "taskDetailId": 1414126,
+              "skuCode": "R8210000008LA",
+              "locationX": 30.55,
+              "locationY": 6.06,
+              "skuPickSpeed": 60,
+              "skuOrder": 2
+            },
+            {
+              "taskDetailId": 1414124,
+              "skuCode": "R7110000017LA",
+              "locationX": 33.15,
+              "locationY": 6.06,
+              "skuPickSpeed": 60,
+              "skuOrder": 3
+            },
+            {
+              "taskDetailId": 1414122,
+              "skuCode": "R1115224073LA",
+              "locationX": 35.75,
+              "locationY": 6.06,
+              "skuPickSpeed": 60,
+              "skuOrder": 4
+            },
+            {
+              "taskDetailId": 1414123,
+              "skuCode": "R1115224073LA",
+              "locationX": 35.75,
+              "locationY": 6.06,
+              "skuPickSpeed": 60,
+              "skuOrder": 5
+            },
+            {
+              "taskDetailId": 1414120,
+              "skuCode": "R1115224073LA",
+              "locationX": 35.75,
+              "locationY": 6.06,
+              "skuPickSpeed": 60,
+              "skuOrder": 6
+            },
+            {
+              "taskDetailId": 1414121,
+              "skuCode": "R1115224073LA",
+              "locationX": 35.75,
+              "locationY": 6.06,
+              "skuPickSpeed": 60,
+              "skuOrder": 7
+            },
+            {
+              "taskDetailId": 1414127,
+              "skuCode": "R1142022053LA",
+              "locationX": 26.72,
+              "locationY": 6.06,
+              "skuPickSpeed": 60,
+              "skuOrder": 8
+            },
+            {
+              "taskDetailId": 1414128,
+              "skuCode": "R7110000053LA",
+              "locationX": 26.72,
+              "locationY": 6.06,
+              "skuPickSpeed": 60,
+              "skuOrder": 9
+            },
+            {
+              "taskDetailId": 1414130,
+              "skuCode": "R1115100286LA",
+              "locationX": 25.42,
+              "locationY": 6.06,
+              "skuPickSpeed": 60,
+              "skuOrder": 10
+            },
+            {
+              "taskDetailId": 1414129,
+              "skuCode": "R1112000006LA",
+              "locationX": 25.42,
+              "locationY": 6.06,
+              "skuPickSpeed": 60,
+              "skuOrder": 11
+            },
+            {
+              "taskDetailId": 1414131,
+              "skuCode": "R1154011097LA",
+              "locationX": 22.82,
+              "locationY": 6.06,
+              "skuPickSpeed": 60,
+              "skuOrder": 12
+            },
+            {
+              "taskDetailId": 1414134,
+              "skuCode": "R1152000147LA",
+              "locationX": 21.52,
+              "locationY": 6.06,
+              "skuPickSpeed": 60,
+              "skuOrder": 13
+            },
+            {
+              "taskDetailId": 1414132,
+              "skuCode": "R1110011335LA",
+              "locationX": 21.52,
+              "locationY": 6.06,
+              "skuPickSpeed": 60,
+              "skuOrder": 14
+            },
+            {
+              "taskDetailId": 1414133,
+              "skuCode": "R1152000146LA",
+              "locationX": 21.52,
+              "locationY": 6.06,
+              "skuPickSpeed": 60,
+              "skuOrder": 15
+            },
+            {
+              "taskDetailId": 1414135,
+              "skuCode": "R1154011090LA",
+              "locationX": 21.52,
+              "locationY": 6.06,
+              "skuPickSpeed": 60,
+              "skuOrder": 16
+            },
+            {
+              "taskDetailId": 1414136,
+              "skuCode": "R1152000146LA",
+              "locationX": 20.22,
+              "locationY": 6.06,
+              "skuPickSpeed": 60,
+              "skuOrder": 17
+            },
+            {
+              "taskDetailId": 1414137,
+              "skuCode": "R1142110033LA",
+              "locationX": 17.06,
+              "locationY": 6.06,
+              "skuPickSpeed": 60,
+              "skuOrder": 18
+            },
+            {
+              "taskDetailId": 1414139,
+              "skuCode": "R2816000018LA",
+              "locationX": 16.46,
+              "locationY": 6.06,
+              "skuPickSpeed": 60,
+              "skuOrder": 19
+            },
+            {
+              "taskDetailId": 1414138,
+              "skuCode": "R1110011335LA",
+              "locationX": 16.46,
+              "locationY": 6.06,
+              "skuPickSpeed": 60,
+              "skuOrder": 20
+            },
+            {
+              "taskDetailId": 1414140,
+              "skuCode": "R1142100017LA",
+              "locationX": 15.11,
+              "locationY": 6.06,
+              "skuPickSpeed": 60,
+              "skuOrder": 21
+            },
+            {
+              "taskDetailId": 1414141,
+              "skuCode": "R1142110033LA",
+              "locationX": 15.11,
+              "locationY": 6.06,
+              "skuPickSpeed": 60,
+              "skuOrder": 22
+            },
+            {
+              "taskDetailId": 1414142,
+              "skuCode": "R1110012171LA",
+              "locationX": 13.91,
+              "locationY": 6.06,
+              "skuPickSpeed": 60,
+              "skuOrder": 23
+            },
+            {
+              "taskDetailId": 1414143,
+              "skuCode": "R1110022010LA",
+              "locationX": 13.91,
+              "locationY": 6.06,
+              "skuPickSpeed": 60,
+              "skuOrder": 24
+            },
+            {
+              "taskDetailId": 1414145,
+              "skuCode": "R1110012098LA",
+              "locationX": 11.51,
+              "locationY": 6.06,
+              "skuPickSpeed": 60,
+              "skuOrder": 25
+            },
+            {
+              "taskDetailId": 1414144,
+              "skuCode": "R1110011306LA",
+              "locationX": 11.51,
+              "locationY": 6.06,
+              "skuPickSpeed": 60,
+              "skuOrder": 26
+            },
+            {
+              "taskDetailId": 1414146,
+              "skuCode": "R1110012098LA",
+              "locationX": 11.51,
+              "locationY": 6.06,
+              "skuPickSpeed": 60,
+              "skuOrder": 27
+            }
+          ]
+        },
+        {
+          "mainId": 674579,
+          "taskId": "CLCK202601160022#1052400",
+          "timeLine": "2026-01-18 16:36:55",
+          "taskStatus": "未开始",
+          "taskPriority": 2,
+          "predictStartTime": "2026-01-16 18:24:35",
+          "predictStartLocationX": 23.11,
+          "predictStartLocationY": 4.42,
+          "predictCompleteTime": "2026-01-16 18:50:44",
+          "predictCompleteLocationX": 25.38,
+          "predictCompleteLocationY": 0.93,
+          "IngredientList": "CLCK202601160022",
+          "skuOrder": [
+            {
+              "taskDetailId": 1414083,
+              "skuCode": "R1142060076LA",
+              "locationX": 24.33,
+              "locationY": 3.82,
+              "skuPickSpeed": 60,
+              "skuOrder": 1
+            },
+            {
+              "taskDetailId": 1414085,
+              "skuCode": "R1142022039LA",
+              "locationX": 25.38,
+              "locationY": 3.82,
+              "skuPickSpeed": 60,
+              "skuOrder": 2
+            },
+            {
+              "taskDetailId": 1414090,
+              "skuCode": "R1110013806LA",
+              "locationX": 24.33,
+              "locationY": 3.82,
+              "skuPickSpeed": 60,
+              "skuOrder": 3
+            },
+            {
+              "taskDetailId": 1414091,
+              "skuCode": "R1110013806LA",
+              "locationX": 24.33,
+              "locationY": 3.82,
+              "skuPickSpeed": 60,
+              "skuOrder": 4
+            },
+            {
+              "taskDetailId": 1414092,
+              "skuCode": "R1110013806LA",
+              "locationX": 24.33,
+              "locationY": 3.82,
+              "skuPickSpeed": 60,
+              "skuOrder": 5
+            },
+            {
+              "taskDetailId": 1414096,
+              "skuCode": "R1110011280LA",
+              "locationX": 24.33,
+              "locationY": 3.34,
+              "skuPickSpeed": 60,
+              "skuOrder": 6
+            },
+            {
+              "taskDetailId": 1414084,
+              "skuCode": "R1112000006LA",
+              "locationX": 24.33,
+              "locationY": 3.34,
+              "skuPickSpeed": 60,
+              "skuOrder": 7
+            },
+            {
+              "taskDetailId": 1414086,
+              "skuCode": "R1411210014LA",
+              "locationX": 25.38,
+              "locationY": 3.34,
+              "skuPickSpeed": 60,
+              "skuOrder": 8
+            },
+            {
+              "taskDetailId": 1414087,
+              "skuCode": "R8410000006LA",
+              "locationX": 25.38,
+              "locationY": 2.86,
+              "skuPickSpeed": 60,
+              "skuOrder": 9
+            },
+            {
+              "taskDetailId": 1414094,
+              "skuCode": "R1142110034LA",
+              "locationX": 25.38,
+              "locationY": 2.37,
+              "skuPickSpeed": 60,
+              "skuOrder": 10
+            },
+            {
+              "taskDetailId": 1414093,
+              "skuCode": "R1142110034LA",
+              "locationX": 25.38,
+              "locationY": 2.37,
+              "skuPickSpeed": 60,
+              "skuOrder": 11
+            },
+            {
+              "taskDetailId": 1414095,
+              "skuCode": "R1150030097LA",
+              "locationX": 24.33,
+              "locationY": 1.41,
+              "skuPickSpeed": 60,
+              "skuOrder": 12
+            },
+            {
+              "taskDetailId": 1414089,
+              "skuCode": "R1110011306LA",
+              "locationX": 24.33,
+              "locationY": 1.41,
+              "skuPickSpeed": 60,
+              "skuOrder": 13
+            },
+            {
+              "taskDetailId": 1414088,
+              "skuCode": "R1110012098LA",
+              "locationX": 25.38,
+              "locationY": 1.41,
+              "skuPickSpeed": 60,
+              "skuOrder": 14
+            },
+            {
+              "taskDetailId": 1414097,
+              "skuCode": "R8410000015LA",
+              "locationX": 25.38,
+              "locationY": 0.93,
+              "skuPickSpeed": 60,
+              "skuOrder": 15
+            }
+          ]
+        }
+      ],
+      "pdaLocationX": 25.15,
+      "pdaLocationY": 5.55,
+      "padLocationTime": "2026-01-16 16:46:01"
+    },
+    {
+      "sn": "MT22AM50250900056",
+      "userId": "XC241608",
+      "name": "蒲节",
+      "userMoveSpeed": 1.2,
+      "area": [],
+      "allocatedTask": [
+        {
+          "mainId": 674572,
+          "taskId": "CLCK202601160022",
+          "timeLine": "2026-01-18 16:36:55",
+          "taskStatus": "未开始",
+          "taskPriority": 2,
+          "predictStartTime": "2026-01-15 20:44:45",
+          "predictStartLocationX": 41.81,
+          "predictStartLocationY": 23.87,
+          "predictCompleteTime": "2026-01-15 20:50:12",
+          "predictCompleteLocationX": 33.2,
+          "predictCompleteLocationY": 12.13,
+          "IngredientList": "CLCK202601160022",
+          "skuOrder": [
+            {
+              "taskDetailId": 1413917,
+              "skuCode": "R1154011120LA",
+              "locationX": 33.2,
+              "locationY": 13.3,
+              "skuPickSpeed": 60,
+              "skuOrder": 1
+            },
+            {
+              "taskDetailId": 1413916,
+              "skuCode": "R1152000124LA",
+              "locationX": 33.2,
+              "locationY": 13.3,
+              "skuPickSpeed": 60,
+              "skuOrder": 2
+            },
+            {
+              "taskDetailId": 1413915,
+              "skuCode": "R1115224081LA",
+              "locationX": 33.2,
+              "locationY": 13.3,
+              "skuPickSpeed": 60,
+              "skuOrder": 3
+            },
+            {
+              "taskDetailId": 1413918,
+              "skuCode": "R1110012098LA",
+              "locationX": 33.2,
+              "locationY": 12.13,
+              "skuPickSpeed": 60,
+              "skuOrder": 4
+            }
+          ]
+        },
+        {
+          "mainId": 674576,
+          "taskId": "CLCK202601160022#1052410",
+          "timeLine": "2026-01-18 16:36:55",
+          "taskStatus": "未开始",
+          "taskPriority": 2,
+          "predictStartTime": "2026-01-15 20:50:12",
+          "predictStartLocationX": 33.2,
+          "predictStartLocationY": 12.13,
+          "predictCompleteTime": "2026-01-15 22:30:13",
+          "predictCompleteLocationX": 18.55,
+          "predictCompleteLocationY": 4.42,
+          "IngredientList": "CLCK202601160022",
+          "skuOrder": [
+            {
+              "taskDetailId": 1414008,
+              "skuCode": "R1450100034LA",
+              "locationX": 17.44,
+              "locationY": 4.42,
+              "skuPickSpeed": 60,
+              "skuOrder": 1
+            },
+            {
+              "taskDetailId": 1414007,
+              "skuCode": "R1150020082LA",
+              "locationX": 17.44,
+              "locationY": 4.42,
+              "skuPickSpeed": 60,
+              "skuOrder": 2
+            },
+            {
+              "taskDetailId": 1414002,
+              "skuCode": "R2715010041LA",
+              "locationX": 17.44,
+              "locationY": 4.18,
+              "skuPickSpeed": 60,
+              "skuOrder": 3
+            },
+            {
+              "taskDetailId": 1414009,
+              "skuCode": "R1160100020LA",
+              "locationX": 17.44,
+              "locationY": 3.93,
+              "skuPickSpeed": 60,
+              "skuOrder": 4
+            },
+            {
+              "taskDetailId": 1414019,
+              "skuCode": "R1180040145LA",
+              "locationX": 17.44,
+              "locationY": 3.93,
+              "skuPickSpeed": 60,
+              "skuOrder": 5
+            },
+            {
+              "taskDetailId": 1414010,
+              "skuCode": "R1180060014LA",
+              "locationX": 17.44,
+              "locationY": 3.69,
+              "skuPickSpeed": 60,
+              "skuOrder": 6
+            },
+            {
+              "taskDetailId": 1414011,
+              "skuCode": "R1430110051LA",
+              "locationX": 17.44,
+              "locationY": 2.95,
+              "skuPickSpeed": 60,
+              "skuOrder": 7
+            },
+            {
+              "taskDetailId": 1414029,
+              "skuCode": "R1430110049LC",
+              "locationX": 17.44,
+              "locationY": 2.71,
+              "skuPickSpeed": 60,
+              "skuOrder": 8
+            },
+            {
+              "taskDetailId": 1414015,
+              "skuCode": "R2815020083LA",
+              "locationX": 17.44,
+              "locationY": 2.46,
+              "skuPickSpeed": 60,
+              "skuOrder": 9
+            },
+            {
+              "taskDetailId": 1414023,
+              "skuCode": "R1180040148LA",
+              "locationX": 17.44,
+              "locationY": 2.22,
+              "skuPickSpeed": 60,
+              "skuOrder": 10
+            },
+            {
+              "taskDetailId": 1414022,
+              "skuCode": "R1180040148LA",
+              "locationX": 17.44,
+              "locationY": 2.22,
+              "skuPickSpeed": 60,
+              "skuOrder": 11
+            },
+            {
+              "taskDetailId": 1414025,
+              "skuCode": "R1154011080LA",
+              "locationX": 17.44,
+              "locationY": 1.73,
+              "skuPickSpeed": 60,
+              "skuOrder": 12
+            },
+            {
+              "taskDetailId": 1414017,
+              "skuCode": "R1154011117LA",
+              "locationX": 17.44,
+              "locationY": 1.48,
+              "skuPickSpeed": 60,
+              "skuOrder": 13
+            },
+            {
+              "taskDetailId": 1414003,
+              "skuCode": "R1430110034LD",
+              "locationX": 17.44,
+              "locationY": 1.24,
+              "skuPickSpeed": 60,
+              "skuOrder": 14
+            },
+            {
+              "taskDetailId": 1414004,
+              "skuCode": "R1430110034LD",
+              "locationX": 17.44,
+              "locationY": 1.24,
+              "skuPickSpeed": 60,
+              "skuOrder": 15
+            },
+            {
+              "taskDetailId": 1414005,
+              "skuCode": "R1152070051LA",
+              "locationX": 17.44,
+              "locationY": 0.99,
+              "skuPickSpeed": 60,
+              "skuOrder": 16
+            },
+            {
+              "taskDetailId": 1414027,
+              "skuCode": "R1150020081LA",
+              "locationX": 17.44,
+              "locationY": 0.75,
+              "skuPickSpeed": 60,
+              "skuOrder": 17
+            },
+            {
+              "taskDetailId": 1414018,
+              "skuCode": "R1110013805LA",
+              "locationX": 17.44,
+              "locationY": 0.75,
+              "skuPickSpeed": 60,
+              "skuOrder": 18
+            },
+            {
+              "taskDetailId": 1414006,
+              "skuCode": "R1150020029LA",
+              "locationX": 17.44,
+              "locationY": 0.75,
+              "skuPickSpeed": 60,
+              "skuOrder": 19
+            },
+            {
+              "taskDetailId": 1414031,
+              "skuCode": "R1152070051LA",
+              "locationX": 18.55,
+              "locationY": 0.75,
+              "skuPickSpeed": 60,
+              "skuOrder": 20
+            },
+            {
+              "taskDetailId": 1414026,
+              "skuCode": "R1440110029LA",
+              "locationX": 18.55,
+              "locationY": 1.48,
+              "skuPickSpeed": 60,
+              "skuOrder": 21
+            },
+            {
+              "taskDetailId": 1414024,
+              "skuCode": "R2815011026LA",
+              "locationX": 18.55,
+              "locationY": 1.97,
+              "skuPickSpeed": 60,
+              "skuOrder": 22
+            },
+            {
+              "taskDetailId": 1414016,
+              "skuCode": "R1450100025LA",
+              "locationX": 18.55,
+              "locationY": 1.97,
+              "skuPickSpeed": 60,
+              "skuOrder": 23
+            },
+            {
+              "taskDetailId": 1414030,
+              "skuCode": "R2810010037LA",
+              "locationX": 18.55,
+              "locationY": 2.22,
+              "skuPickSpeed": 60,
+              "skuOrder": 24
+            },
+            {
+              "taskDetailId": 1414014,
+              "skuCode": "R1440110079LA",
+              "locationX": 18.55,
+              "locationY": 2.46,
+              "skuPickSpeed": 60,
+              "skuOrder": 25
+            },
+            {
+              "taskDetailId": 1414013,
+              "skuCode": "R1440110079LA",
+              "locationX": 18.55,
+              "locationY": 2.46,
+              "skuPickSpeed": 60,
+              "skuOrder": 26
+            },
+            {
+              "taskDetailId": 1414012,
+              "skuCode": "R1152030075LA",
+              "locationX": 18.55,
+              "locationY": 2.71,
+              "skuPickSpeed": 60,
+              "skuOrder": 27
+            },
+            {
+              "taskDetailId": 1414021,
+              "skuCode": "R1152070043LA",
+              "locationX": 18.55,
+              "locationY": 2.71,
+              "skuPickSpeed": 60,
+              "skuOrder": 28
+            },
+            {
+              "taskDetailId": 1414020,
+              "skuCode": "R1150050055LA",
+              "locationX": 18.55,
+              "locationY": 3.44,
+              "skuPickSpeed": 60,
+              "skuOrder": 29
+            },
+            {
+              "taskDetailId": 1414028,
+              "skuCode": "R1180060015LA",
+              "locationX": 18.55,
+              "locationY": 4.42,
+              "skuPickSpeed": 60,
+              "skuOrder": 30
+            }
+          ]
+        }
+      ],
+      "pdaLocationX": 41.81,
+      "pdaLocationY": 23.87,
+      "padLocationTime": "2026-01-15 20:44:45"
+    },
+    {
+      "sn": "MT22AM50250900080",
+      "userId": "XC231579",
+      "name": "滕亮",
+      "userMoveSpeed": 1.2,
+      "area": [],
+      "allocatedTask": [
+        {
+          "mainId": 674575,
+          "taskId": "CLCK202601160022#1052203",
+          "timeLine": "2026-01-18 16:36:55",
+          "taskStatus": "未开始",
+          "taskPriority": 2,
+          "predictStartTime": "2026-01-16 18:57:32",
+          "predictStartLocationX": 33.2,
+          "predictStartLocationY": 21.47,
+          "predictCompleteTime": "2026-01-16 20:34:42",
+          "predictCompleteLocationX": 16.22,
+          "predictCompleteLocationY": 4.42,
+          "IngredientList": "CLCK202601160022",
+          "skuOrder": [
+            {
+              "taskDetailId": 1413986,
+              "skuCode": "R1152014167LA",
+              "locationX": 15.12,
+              "locationY": 4.42,
+              "skuPickSpeed": 60,
+              "skuOrder": 1
+            },
+            {
+              "taskDetailId": 1413989,
+              "skuCode": "R1152014215LA",
+              "locationX": 15.12,
+              "locationY": 3.69,
+              "skuPickSpeed": 60,
+              "skuOrder": 2
+            },
+            {
+              "taskDetailId": 1413966,
+              "skuCode": "R1152014101LA",
+              "locationX": 15.12,
+              "locationY": 3.69,
+              "skuPickSpeed": 60,
+              "skuOrder": 3
+            },
+            {
+              "taskDetailId": 1413976,
+              "skuCode": "R1430110055LA",
+              "locationX": 15.12,
+              "locationY": 3.69,
+              "skuPickSpeed": 60,
+              "skuOrder": 4
+            },
+            {
+              "taskDetailId": 1413988,
+              "skuCode": "R1152014215LA",
+              "locationX": 15.12,
+              "locationY": 3.69,
+              "skuPickSpeed": 60,
+              "skuOrder": 5
+            },
+            {
+              "taskDetailId": 1413977,
+              "skuCode": "R1430110055LA",
+              "locationX": 15.12,
+              "locationY": 3.69,
+              "skuPickSpeed": 60,
+              "skuOrder": 6
+            },
+            {
+              "taskDetailId": 1413990,
+              "skuCode": "R1152014159LA",
+              "locationX": 15.12,
+              "locationY": 3.44,
+              "skuPickSpeed": 60,
+              "skuOrder": 7
+            },
+            {
+              "taskDetailId": 1413991,
+              "skuCode": "R1152014159LA",
+              "locationX": 15.12,
+              "locationY": 3.44,
+              "skuPickSpeed": 60,
+              "skuOrder": 8
+            },
+            {
+              "taskDetailId": 1413963,
+              "skuCode": "R1152014101LA",
+              "locationX": 15.12,
+              "locationY": 3.2,
+              "skuPickSpeed": 60,
+              "skuOrder": 9
+            },
+            {
+              "taskDetailId": 1413993,
+              "skuCode": "R1152020001LA",
+              "locationX": 15.12,
+              "locationY": 3.2,
+              "skuPickSpeed": 60,
+              "skuOrder": 10
+            },
+            {
+              "taskDetailId": 1413992,
+              "skuCode": "R1152020001LA",
+              "locationX": 15.12,
+              "locationY": 3.2,
+              "skuPickSpeed": 60,
+              "skuOrder": 11
+            },
+            {
+              "taskDetailId": 1413978,
+              "skuCode": "R1411110025LA",
+              "locationX": 15.12,
+              "locationY": 3.2,
+              "skuPickSpeed": 60,
+              "skuOrder": 12
+            },
+            {
+              "taskDetailId": 1413973,
+              "skuCode": "R1152000141LA",
+              "locationX": 15.12,
+              "locationY": 2.95,
+              "skuPickSpeed": 60,
+              "skuOrder": 13
+            },
+            {
+              "taskDetailId": 1413979,
+              "skuCode": "R1440110031LA",
+              "locationX": 15.12,
+              "locationY": 2.71,
+              "skuPickSpeed": 60,
+              "skuOrder": 14
+            },
+            {
+              "taskDetailId": 1413974,
+              "skuCode": "R1154011103LA",
+              "locationX": 15.12,
+              "locationY": 2.71,
+              "skuPickSpeed": 60,
+              "skuOrder": 15
+            },
+            {
+              "taskDetailId": 1413981,
+              "skuCode": "R1440220005LA",
+              "locationX": 15.12,
+              "locationY": 2.46,
+              "skuPickSpeed": 60,
+              "skuOrder": 16
+            },
+            {
+              "taskDetailId": 1413994,
+              "skuCode": "R1160100017LA",
+              "locationX": 15.12,
+              "locationY": 2.22,
+              "skuPickSpeed": 60,
+              "skuOrder": 17
+            },
+            {
+              "taskDetailId": 1413982,
+              "skuCode": "R1152030083LA",
+              "locationX": 15.12,
+              "locationY": 1.97,
+              "skuPickSpeed": 60,
+              "skuOrder": 18
+            },
+            {
+              "taskDetailId": 1413983,
+              "skuCode": "R1152030082LA",
+              "locationX": 15.12,
+              "locationY": 1.73,
+              "skuPickSpeed": 60,
+              "skuOrder": 19
+            },
+            {
+              "taskDetailId": 1413996,
+              "skuCode": "R1152014170LA",
+              "locationX": 15.12,
+              "locationY": 1.48,
+              "skuPickSpeed": 60,
+              "skuOrder": 20
+            },
+            {
+              "taskDetailId": 1413997,
+              "skuCode": "R1152014170LA",
+              "locationX": 15.12,
+              "locationY": 1.48,
+              "skuPickSpeed": 60,
+              "skuOrder": 21
+            },
+            {
+              "taskDetailId": 1413998,
+              "skuCode": "R1152014170LA",
+              "locationX": 15.12,
+              "locationY": 1.48,
+              "skuPickSpeed": 60,
+              "skuOrder": 22
+            },
+            {
+              "taskDetailId": 1413999,
+              "skuCode": "R1152014199LA",
+              "locationX": 15.12,
+              "locationY": 0.99,
+              "skuPickSpeed": 60,
+              "skuOrder": 23
+            },
+            {
+              "taskDetailId": 1413984,
+              "skuCode": "R2715020049LA",
+              "locationX": 15.12,
+              "locationY": 0.99,
+              "skuPickSpeed": 60,
+              "skuOrder": 24
+            },
+            {
+              "taskDetailId": 1414000,
+              "skuCode": "R1142120008LA",
+              "locationX": 15.12,
+              "locationY": 0.75,
+              "skuPickSpeed": 60,
+              "skuOrder": 25
+            },
+            {
+              "taskDetailId": 1413964,
+              "skuCode": "R1152014199LA",
+              "locationX": 15.12,
+              "locationY": 0.75,
+              "skuPickSpeed": 60,
+              "skuOrder": 26
+            },
+            {
+              "taskDetailId": 1414001,
+              "skuCode": "R1142120008LA",
+              "locationX": 15.12,
+              "locationY": 0.75,
+              "skuPickSpeed": 60,
+              "skuOrder": 27
+            },
+            {
+              "taskDetailId": 1413975,
+              "skuCode": "R1154011120LA",
+              "locationX": 16.22,
+              "locationY": 0.75,
+              "skuPickSpeed": 60,
+              "skuOrder": 28
+            },
+            {
+              "taskDetailId": 1413995,
+              "skuCode": "R1152030082LA",
+              "locationX": 16.22,
+              "locationY": 1.48,
+              "skuPickSpeed": 60,
+              "skuOrder": 29
+            },
+            {
+              "taskDetailId": 1413980,
+              "skuCode": "R1152000124LA",
+              "locationX": 16.22,
+              "locationY": 2.46,
+              "skuPickSpeed": 60,
+              "skuOrder": 30
+            },
+            {
+              "taskDetailId": 1413970,
+              "skuCode": "R2211602674LA",
+              "locationX": 16.22,
+              "locationY": 2.95,
+              "skuPickSpeed": 60,
+              "skuOrder": 31
+            },
+            {
+              "taskDetailId": 1413972,
+              "skuCode": "R2211602674LA",
+              "locationX": 16.22,
+              "locationY": 2.95,
+              "skuPickSpeed": 60,
+              "skuOrder": 32
+            },
+            {
+              "taskDetailId": 1413971,
+              "skuCode": "R2211602674LA",
+              "locationX": 16.22,
+              "locationY": 2.95,
+              "skuPickSpeed": 60,
+              "skuOrder": 33
+            },
+            {
+              "taskDetailId": 1413969,
+              "skuCode": "R2815020073LA",
+              "locationX": 16.22,
+              "locationY": 3.44,
+              "skuPickSpeed": 60,
+              "skuOrder": 34
+            },
+            {
+              "taskDetailId": 1413967,
+              "skuCode": "R2815020073LA",
+              "locationX": 16.22,
+              "locationY": 3.44,
+              "skuPickSpeed": 60,
+              "skuOrder": 35
+            },
+            {
+              "taskDetailId": 1413968,
+              "skuCode": "R2815020073LA",
+              "locationX": 16.22,
+              "locationY": 3.44,
+              "skuPickSpeed": 60,
+              "skuOrder": 36
+            },
+            {
+              "taskDetailId": 1413987,
+              "skuCode": "R1152014168LA",
+              "locationX": 16.22,
+              "locationY": 4.18,
+              "skuPickSpeed": 60,
+              "skuOrder": 37
+            },
+            {
+              "taskDetailId": 1413965,
+              "skuCode": "R1152014216LA",
+              "locationX": 16.22,
+              "locationY": 4.42,
+              "skuPickSpeed": 60,
+              "skuOrder": 38
+            },
+            {
+              "taskDetailId": 1413985,
+              "skuCode": "R1440120011LA",
+              "locationX": 16.22,
+              "locationY": 4.42,
+              "skuPickSpeed": 60,
+              "skuOrder": 39
+            }
+          ]
+        },
+        {
+          "mainId": 674577,
+          "taskId": "CLCK202601160022#1052315",
+          "timeLine": "2026-01-18 16:36:55",
+          "taskStatus": "未开始",
+          "taskPriority": 2,
+          "predictStartTime": "2026-01-16 20:34:42",
+          "predictStartLocationX": 16.22,
+          "predictStartLocationY": 4.42,
+          "predictCompleteTime": "2026-01-16 21:12:54",
+          "predictCompleteLocationX": 19.77,
+          "predictCompleteLocationY": 0.75,
+          "IngredientList": "CLCK202601160022",
+          "skuOrder": [
+            {
+              "taskDetailId": 1414032,
+              "skuCode": "R1142110034LA",
+              "locationX": 19.77,
+              "locationY": 4.42,
+              "skuPickSpeed": 60,
+              "skuOrder": 1
+            },
+            {
+              "taskDetailId": 1414037,
+              "skuCode": "R2715010050LA",
+              "locationX": 20.81,
+              "locationY": 4.18,
+              "skuPickSpeed": 60,
+              "skuOrder": 2
+            },
+            {
+              "taskDetailId": 1414041,
+              "skuCode": "R2810020040LA",
+              "locationX": 20.81,
+              "locationY": 3.69,
+              "skuPickSpeed": 60,
+              "skuOrder": 3
+            },
+            {
+              "taskDetailId": 1414038,
+              "skuCode": "R2810020042LA",
+              "locationX": 20.81,
+              "locationY": 3.69,
+              "skuPickSpeed": 60,
+              "skuOrder": 4
+            },
+            {
+              "taskDetailId": 1414043,
+              "skuCode": "R2815020022LA",
+              "locationX": 20.81,
+              "locationY": 3.44,
+              "skuPickSpeed": 60,
+              "skuOrder": 5
+            },
+            {
+              "taskDetailId": 1414042,
+              "skuCode": "R2815020022LA",
+              "locationX": 20.81,
+              "locationY": 3.44,
+              "skuPickSpeed": 60,
+              "skuOrder": 6
+            },
+            {
+              "taskDetailId": 1414046,
+              "skuCode": "R2810030006LA",
+              "locationX": 20.81,
+              "locationY": 3.2,
+              "skuPickSpeed": 60,
+              "skuOrder": 7
+            },
+            {
+              "taskDetailId": 1414039,
+              "skuCode": "R1417120025LA",
+              "locationX": 20.81,
+              "locationY": 3.2,
+              "skuPickSpeed": 60,
+              "skuOrder": 8
+            },
+            {
+              "taskDetailId": 1414047,
+              "skuCode": "R1440110063LA",
+              "locationX": 20.81,
+              "locationY": 2.95,
+              "skuPickSpeed": 60,
+              "skuOrder": 9
+            },
+            {
+              "taskDetailId": 1414044,
+              "skuCode": "R7311000003LA",
+              "locationX": 19.77,
+              "locationY": 2.71,
+              "skuPickSpeed": 60,
+              "skuOrder": 10
+            },
+            {
+              "taskDetailId": 1414033,
+              "skuCode": "R2715010051LA",
+              "locationX": 20.81,
+              "locationY": 2.71,
+              "skuPickSpeed": 60,
+              "skuOrder": 11
+            },
+            {
+              "taskDetailId": 1414048,
+              "skuCode": "R2810020030LA",
+              "locationX": 20.81,
+              "locationY": 2.46,
+              "skuPickSpeed": 60,
+              "skuOrder": 12
+            },
+            {
+              "taskDetailId": 1414040,
+              "skuCode": "R1150070058LA",
+              "locationX": 20.81,
+              "locationY": 1.97,
+              "skuPickSpeed": 60,
+              "skuOrder": 13
+            },
+            {
+              "taskDetailId": 1414034,
+              "skuCode": "R2211602718LA",
+              "locationX": 19.77,
+              "locationY": 1.73,
+              "skuPickSpeed": 60,
+              "skuOrder": 14
+            },
+            {
+              "taskDetailId": 1414045,
+              "skuCode": "R8011000004LA",
+              "locationX": 19.77,
+              "locationY": 1.48,
+              "skuPickSpeed": 60,
+              "skuOrder": 15
+            },
+            {
+              "taskDetailId": 1414035,
+              "skuCode": "R2815020078LA",
+              "locationX": 19.77,
+              "locationY": 0.75,
+              "skuPickSpeed": 60,
+              "skuOrder": 16
+            },
+            {
+              "taskDetailId": 1414036,
+              "skuCode": "R2815020078LA",
+              "locationX": 19.77,
+              "locationY": 0.75,
+              "skuPickSpeed": 60,
+              "skuOrder": 17
+            }
+          ]
+        },
+        {
+          "mainId": 674573,
+          "taskId": "CLCK202601160022#1052254",
+          "timeLine": "2026-01-18 16:36:55",
+          "taskStatus": "未开始",
+          "taskPriority": 2,
+          "predictStartTime": "2026-01-16 16:37:01",
+          "predictStartLocationX": 10.18,
+          "predictStartLocationY": 0.71,
+          "predictCompleteTime": "2026-01-16 16:58:05",
+          "predictCompleteLocationX": 11.59,
+          "predictCompleteLocationY": 3.93,
+          "IngredientList": "CLCK202601160022",
+          "skuOrder": [
+            {
+              "taskDetailId": 1413925,
+              "skuCode": "R1142100027LA",
+              "locationX": 11.59,
+              "locationY": 1.48,
+              "skuPickSpeed": 60,
+              "skuOrder": 1
+            },
+            {
+              "taskDetailId": 1413919,
+              "skuCode": "R1411210013LA",
+              "locationX": 11.59,
+              "locationY": 1.97,
+              "skuPickSpeed": 60,
+              "skuOrder": 2
+            },
+            {
+              "taskDetailId": 1413924,
+              "skuCode": "R1110013073LA",
+              "locationX": 11.59,
+              "locationY": 2.71,
+              "skuPickSpeed": 60,
+              "skuOrder": 3
+            },
+            {
+              "taskDetailId": 1413923,
+              "skuCode": "R1115100275LA",
+              "locationX": 11.59,
+              "locationY": 3.2,
+              "skuPickSpeed": 60,
+              "skuOrder": 4
+            },
+            {
+              "taskDetailId": 1413920,
+              "skuCode": "R1193010048LA",
+              "locationX": 11.59,
+              "locationY": 3.2,
+              "skuPickSpeed": 60,
+              "skuOrder": 5
+            },
+            {
+              "taskDetailId": 1413922,
+              "skuCode": "R1115100275LA",
+              "locationX": 11.59,
+              "locationY": 3.69,
+              "skuPickSpeed": 60,
+              "skuOrder": 6
+            },
+            {
+              "taskDetailId": 1413921,
+              "skuCode": "R1411400018LA",
+              "locationX": 11.59,
+              "locationY": 3.93,
+              "skuPickSpeed": 60,
+              "skuOrder": 7
+            }
+          ]
+        },
+        {
+          "mainId": 674574,
+          "taskId": "CLCK202601160022#1052198",
+          "timeLine": "2026-01-18 16:36:55",
+          "taskStatus": "未开始",
+          "taskPriority": 2,
+          "predictStartTime": "2026-01-16 16:58:05",
+          "predictStartLocationX": 11.59,
+          "predictStartLocationY": 3.93,
+          "predictCompleteTime": "2026-01-16 18:45:17",
+          "predictCompleteLocationX": 13.9,
+          "predictCompleteLocationY": 4.42,
+          "IngredientList": "CLCK202601160022",
+          "skuOrder": [
+            {
+              "taskDetailId": 1413945,
+              "skuCode": "R1150001821LA",
+              "locationX": 12.81,
+              "locationY": 4.18,
+              "skuPickSpeed": 60,
+              "skuOrder": 1
+            },
+            {
+              "taskDetailId": 1413960,
+              "skuCode": "R1150003349LA",
+              "locationX": 12.81,
+              "locationY": 3.69,
+              "skuPickSpeed": 60,
+              "skuOrder": 2
+            },
+            {
+              "taskDetailId": 1413930,
+              "skuCode": "R1124010015LA",
+              "locationX": 12.81,
+              "locationY": 3.69,
+              "skuPickSpeed": 60,
+              "skuOrder": 3
+            },
+            {
+              "taskDetailId": 1413959,
+              "skuCode": "R1150003349LA",
+              "locationX": 12.81,
+              "locationY": 3.69,
+              "skuPickSpeed": 60,
+              "skuOrder": 4
+            },
+            {
+              "taskDetailId": 1413934,
+              "skuCode": "R1150020108LA",
+              "locationX": 12.81,
+              "locationY": 3.69,
+              "skuPickSpeed": 60,
+              "skuOrder": 5
+            },
+            {
+              "taskDetailId": 1413961,
+              "skuCode": "R1160100013LA",
+              "locationX": 12.81,
+              "locationY": 3.44,
+              "skuPickSpeed": 60,
+              "skuOrder": 6
+            },
+            {
+              "taskDetailId": 1413936,
+              "skuCode": "R1440110020LA",
+              "locationX": 12.81,
+              "locationY": 2.95,
+              "skuPickSpeed": 60,
+              "skuOrder": 7
+            },
+            {
+              "taskDetailId": 1413962,
+              "skuCode": "R1150050040LA",
+              "locationX": 12.81,
+              "locationY": 2.71,
+              "skuPickSpeed": 60,
+              "skuOrder": 8
+            },
+            {
+              "taskDetailId": 1413951,
+              "skuCode": "R1150003356LA",
+              "locationX": 12.81,
+              "locationY": 2.71,
+              "skuPickSpeed": 60,
+              "skuOrder": 9
+            },
+            {
+              "taskDetailId": 1413937,
+              "skuCode": "R1440120022LA",
+              "locationX": 12.81,
+              "locationY": 2.71,
+              "skuPickSpeed": 60,
+              "skuOrder": 10
+            },
+            {
+              "taskDetailId": 1413940,
+              "skuCode": "R1152000139LA",
+              "locationX": 12.81,
+              "locationY": 2.46,
+              "skuPickSpeed": 60,
+              "skuOrder": 11
+            },
+            {
+              "taskDetailId": 1413941,
+              "skuCode": "R1411110021LA",
+              "locationX": 12.81,
+              "locationY": 2.22,
+              "skuPickSpeed": 60,
+              "skuOrder": 12
+            },
+            {
+              "taskDetailId": 1413953,
+              "skuCode": "R1150050074LA",
+              "locationX": 12.81,
+              "locationY": 2.22,
+              "skuPickSpeed": 60,
+              "skuOrder": 13
+            },
+            {
+              "taskDetailId": 1413942,
+              "skuCode": "R1150030096LA",
+              "locationX": 12.81,
+              "locationY": 0.99,
+              "skuPickSpeed": 60,
+              "skuOrder": 14
+            },
+            {
+              "taskDetailId": 1413957,
+              "skuCode": "R1150020067LA",
+              "locationX": 12.81,
+              "locationY": 1.24,
+              "skuPickSpeed": 60,
+              "skuOrder": 15
+            },
+            {
+              "taskDetailId": 1413956,
+              "skuCode": "R1150070069LA",
+              "locationX": 13.9,
+              "locationY": 1.24,
+              "skuPickSpeed": 60,
+              "skuOrder": 16
+            },
+            {
+              "taskDetailId": 1413955,
+              "skuCode": "R1193010047LA",
+              "locationX": 13.9,
+              "locationY": 1.48,
+              "skuPickSpeed": 60,
+              "skuOrder": 17
+            },
+            {
+              "taskDetailId": 1413954,
+              "skuCode": "R1150050075LA",
+              "locationX": 13.9,
+              "locationY": 1.97,
+              "skuPickSpeed": 60,
+              "skuOrder": 18
+            },
+            {
+              "taskDetailId": 1413952,
+              "skuCode": "R1150050075LA",
+              "locationX": 13.9,
+              "locationY": 2.46,
+              "skuPickSpeed": 60,
+              "skuOrder": 19
+            },
+            {
+              "taskDetailId": 1413938,
+              "skuCode": "R1150003357LA",
+              "locationX": 13.9,
+              "locationY": 2.46,
+              "skuPickSpeed": 60,
+              "skuOrder": 20
+            },
+            {
+              "taskDetailId": 1413939,
+              "skuCode": "R1150003357LA",
+              "locationX": 13.9,
+              "locationY": 2.46,
+              "skuPickSpeed": 60,
+              "skuOrder": 21
+            },
+            {
+              "taskDetailId": 1413932,
+              "skuCode": "R1150020098LA",
+              "locationX": 13.9,
+              "locationY": 2.71,
+              "skuPickSpeed": 60,
+              "skuOrder": 22
+            },
+            {
+              "taskDetailId": 1413950,
+              "skuCode": "R1142100060LA",
+              "locationX": 13.9,
+              "locationY": 2.95,
+              "skuPickSpeed": 60,
+              "skuOrder": 23
+            },
+            {
+              "taskDetailId": 1413931,
+              "skuCode": "R1440120037LA",
+              "locationX": 13.9,
+              "locationY": 3.44,
+              "skuPickSpeed": 60,
+              "skuOrder": 24
+            },
+            {
+              "taskDetailId": 1413949,
+              "skuCode": "R1142060075LA",
+              "locationX": 13.9,
+              "locationY": 3.44,
+              "skuPickSpeed": 60,
+              "skuOrder": 25
+            },
+            {
+              "taskDetailId": 1413948,
+              "skuCode": "R1142060075LA",
+              "locationX": 13.9,
+              "locationY": 3.44,
+              "skuPickSpeed": 60,
+              "skuOrder": 26
+            },
+            {
+              "taskDetailId": 1413935,
+              "skuCode": "R1440110023LA",
+              "locationX": 13.9,
+              "locationY": 3.44,
+              "skuPickSpeed": 60,
+              "skuOrder": 27
+            },
+            {
+              "taskDetailId": 1413947,
+              "skuCode": "R1142060075LA",
+              "locationX": 13.9,
+              "locationY": 3.44,
+              "skuPickSpeed": 60,
+              "skuOrder": 28
+            },
+            {
+              "taskDetailId": 1413946,
+              "skuCode": "R1150050074LA",
+              "locationX": 13.9,
+              "locationY": 3.69,
+              "skuPickSpeed": 60,
+              "skuOrder": 29
+            },
+            {
+              "taskDetailId": 1413929,
+              "skuCode": "R1440310018LA",
+              "locationX": 13.9,
+              "locationY": 3.69,
+              "skuPickSpeed": 60,
+              "skuOrder": 30
+            },
+            {
+              "taskDetailId": 1413926,
+              "skuCode": "R1152020002LA",
+              "locationX": 13.9,
+              "locationY": 4.18,
+              "skuPickSpeed": 60,
+              "skuOrder": 31
+            },
+            {
+              "taskDetailId": 1413933,
+              "skuCode": "R1150050041LA",
+              "locationX": 13.9,
+              "locationY": 4.18,
+              "skuPickSpeed": 60,
+              "skuOrder": 32
+            },
+            {
+              "taskDetailId": 1413927,
+              "skuCode": "R1152020002LA",
+              "locationX": 13.9,
+              "locationY": 4.18,
+              "skuPickSpeed": 60,
+              "skuOrder": 33
+            },
+            {
+              "taskDetailId": 1413958,
+              "skuCode": "R1150020072LA",
+              "locationX": 13.9,
+              "locationY": 3.93,
+              "skuPickSpeed": 60,
+              "skuOrder": 34
+            },
+            {
+              "taskDetailId": 1413928,
+              "skuCode": "R1152020002LA",
+              "locationX": 13.9,
+              "locationY": 4.18,
+              "skuPickSpeed": 60,
+              "skuOrder": 35
+            },
+            {
+              "taskDetailId": 1413944,
+              "skuCode": "R1417120046LA",
+              "locationX": 13.9,
+              "locationY": 4.42,
+              "skuPickSpeed": 60,
+              "skuOrder": 36
+            },
+            {
+              "taskDetailId": 1413943,
+              "skuCode": "R1417120046LA",
+              "locationX": 13.9,
+              "locationY": 4.42,
+              "skuPickSpeed": 60,
+              "skuOrder": 37
+            }
+          ]
+        },
+        {
+          "mainId": 674519,
+          "taskId": "CLCK202601160019",
+          "timeLine": "2026-01-18 16:05:06",
+          "taskStatus": "未开始",
+          "taskPriority": 2,
+          "predictStartTime": "2026-01-16 18:45:17",
+          "predictStartLocationX": 13.9,
+          "predictStartLocationY": 4.42,
+          "predictCompleteTime": "2026-01-16 18:57:32",
+          "predictCompleteLocationX": 33.2,
+          "predictCompleteLocationY": 21.47,
+          "IngredientList": "CLCK202601160019",
+          "skuOrder": [
+            {
+              "taskDetailId": 1413783,
+              "skuCode": "R4312072009LA",
+              "locationX": 4.38,
+              "locationY": 2.54,
+              "skuPickSpeed": 60,
+              "skuOrder": 1
+            },
+            {
+              "taskDetailId": 1413782,
+              "skuCode": "R5311000113LA",
+              "locationX": 0.63,
+              "locationY": 5.86,
+              "skuPickSpeed": 60,
+              "skuOrder": 2
+            },
+            {
+              "taskDetailId": 1413785,
+              "skuCode": "R3240004100LB",
+              "locationX": 13.8,
+              "locationY": 13.84,
+              "skuPickSpeed": 60,
+              "skuOrder": 3
+            },
+            {
+              "taskDetailId": 1413786,
+              "skuCode": "R3216003178LB",
+              "locationX": 14.9,
+              "locationY": 14.81,
+              "skuPickSpeed": 60,
+              "skuOrder": 4
+            },
+            {
+              "taskDetailId": 1413788,
+              "skuCode": "R3327333505LA",
+              "locationX": 16.1,
+              "locationY": 14.81,
+              "skuPickSpeed": 60,
+              "skuOrder": 5
+            },
+            {
+              "taskDetailId": 1413787,
+              "skuCode": "R3414479510LA",
+              "locationX": 17.84,
+              "locationY": 15.54,
+              "skuPickSpeed": 60,
+              "skuOrder": 6
+            },
+            {
+              "taskDetailId": 1413784,
+              "skuCode": "R3311214330LB",
+              "locationX": 14.9,
+              "locationY": 23.08,
+              "skuPickSpeed": 60,
+              "skuOrder": 7
+            },
+            {
+              "taskDetailId": 1413789,
+              "skuCode": "R3422992100LB",
+              "locationX": 19.04,
+              "locationY": 17.0,
+              "skuPickSpeed": 60,
+              "skuOrder": 8
+            },
+            {
+              "taskDetailId": 1413781,
+              "skuCode": "R6612000452LA",
+              "locationX": 31.28,
+              "locationY": 10.02,
+              "skuPickSpeed": 60,
+              "skuOrder": 9
+            },
+            {
+              "taskDetailId": 1413780,
+              "skuCode": "R6612000410LB",
+              "locationX": 33.2,
+              "locationY": 21.47,
+              "skuPickSpeed": 60,
+              "skuOrder": 10
+            }
+          ]
+        }
+      ],
+      "pdaLocationX": 10.49,
+      "pdaLocationY": 0.92,
+      "padLocationTime": "2026-01-16 16:46:01"
+    }
+  ],
+  "taskInfo": {
+    "ruleList": [
+      {
+        "ruleName": "就近原则"
+      },
+      {
+        "ruleName": "技能匹配"
+      }
+    ],
+    "taskDetail": [
+      {
+        "IngredientList": "CLCK202601160023",
+        "mainId": 674602,
+        "taskId": "CLCK202601160023#1052489",
+        "taskPriority": 2,
+        "skuList": [
+          {
+            "skuCode": "R3327810120LE",
+            "inspectedQuantity": 1.0,
+            "taskDetailId": 1414351,
+            "locationX": 16.1,
+            "locationY": 20.65,
+            "skuPickSpeed": 60
+          },
+          {
+            "skuCode": "R3414479120LA",
+            "inspectedQuantity": 2.0,
+            "taskDetailId": 1414358,
+            "locationX": 17.84,
+            "locationY": 11.9,
+            "skuPickSpeed": 60
+          },
+          {
+            "skuCode": "R3327341330LE",
+            "inspectedQuantity": 2.0,
+            "taskDetailId": 1414364,
+            "locationX": 16.1,
+            "locationY": 20.89,
+            "skuPickSpeed": 60
+          },
+          {
+            "skuCode": "R3327351220LC",
+            "inspectedQuantity": 2.0,
+            "taskDetailId": 1414372,
+            "locationX": 16.1,
+            "locationY": 15.79,
+            "skuPickSpeed": 60
+          },
+          {
+            "skuCode": "R3327800180LB",
+            "inspectedQuantity": 7.0,
+            "taskDetailId": 1414382,
+            "locationX": 16.1,
+            "locationY": 20.65,
+            "skuPickSpeed": 60
+          },
+          {
+            "skuCode": "R3327969100LE",
+            "inspectedQuantity": 7.0,
+            "taskDetailId": 1414391,
+            "locationX": 16.1,
+            "locationY": 16.76,
+            "skuPickSpeed": 60
+          },
+          {
+            "skuCode": "R3411999390LG",
+            "inspectedQuantity": 1.0,
+            "taskDetailId": 1414397,
+            "locationX": 17.84,
+            "locationY": 13.11,
+            "skuPickSpeed": 60
+          },
+          {
+            "skuCode": "R3327800560LD",
+            "inspectedQuantity": 2.0,
+            "taskDetailId": 1414406,
+            "locationX": 16.1,
+            "locationY": 17.49,
+            "skuPickSpeed": 60
+          },
+          {
+            "skuCode": "R3414479220LA",
+            "inspectedQuantity": 3.0,
+            "taskDetailId": 1414412,
+            "locationX": 17.84,
+            "locationY": 13.36,
+            "skuPickSpeed": 60
+          },
+          {
+            "skuCode": "R3327810220LG",
+            "inspectedQuantity": 10.0,
+            "taskDetailId": 1414348,
+            "locationX": 16.1,
+            "locationY": 22.83,
+            "skuPickSpeed": 60
+          },
+          {
+            "skuCode": "R3422472100LA",
+            "inspectedQuantity": 1.0,
+            "taskDetailId": 1414357,
+            "locationX": 17.84,
+            "locationY": 13.36,
+            "skuPickSpeed": 60
+          },
+          {
+            "skuCode": "R3414479330LA",
+            "inspectedQuantity": 5.0,
+            "taskDetailId": 1414367,
+            "locationX": 17.84,
+            "locationY": 20.4,
+            "skuPickSpeed": 60
+          },
+          {
+            "skuCode": "R3327342100LE",
+            "inspectedQuantity": 9.0,
+            "taskDetailId": 1414375,
+            "locationX": 16.1,
+            "locationY": 15.3,
+            "skuPickSpeed": 60
+          },
+          {
+            "skuCode": "R3414479150LA",
+            "inspectedQuantity": 4.0,
+            "taskDetailId": 1414381,
+            "locationX": 17.84,
+            "locationY": 20.65,
+            "skuPickSpeed": 60
+          },
+          {
+            "skuCode": "R3327359300LA",
+            "inspectedQuantity": 1.0,
+            "taskDetailId": 1414388,
+            "locationX": 16.1,
+            "locationY": 18.22,
+            "skuPickSpeed": 60
+          },
+          {
+            "skuCode": "R3414999120LA",
+            "inspectedQuantity": 1.0,
+            "taskDetailId": 1414398,
+            "locationX": 17.84,
+            "locationY": 12.87,
+            "skuPickSpeed": 60
+          },
+          {
+            "skuCode": "R3327800560LD",
+            "inspectedQuantity": 2.0,
+            "taskDetailId": 1414405,
+            "locationX": 16.1,
+            "locationY": 17.49,
+            "skuPickSpeed": 60
+          },
+          {
+            "skuCode": "R3327420100LA",
+            "inspectedQuantity": 2.0,
+            "taskDetailId": 1414415,
+            "locationX": 16.1,
+            "locationY": 11.65,
+            "skuPickSpeed": 60
+          },
+          {
+            "skuCode": "R3327819820LB",
+            "inspectedQuantity": 1.0,
+            "taskDetailId": 1414355,
+            "locationX": 17.84,
+            "locationY": 16.27,
+            "skuPickSpeed": 60
+          },
+          {
+            "skuCode": "R3327351470LD",
+            "inspectedQuantity": 2.0,
+            "taskDetailId": 1414361,
+            "locationX": 16.1,
+            "locationY": 22.35,
+            "skuPickSpeed": 60
+          },
+          {
+            "skuCode": "R3414479200LA",
+            "inspectedQuantity": 5.0,
+            "taskDetailId": 1414369,
+            "locationX": 17.84,
+            "locationY": 19.92,
+            "skuPickSpeed": 60
+          },
+          {
+            "skuCode": "R3327333510LC",
+            "inspectedQuantity": 5.0,
+            "taskDetailId": 1414379,
+            "locationX": 16.1,
+            "locationY": 21.62,
+            "skuPickSpeed": 60
+          },
+          {
+            "skuCode": "R3327811100LF",
+            "inspectedQuantity": 16.0,
+            "taskDetailId": 1414386,
+            "locationX": 16.1,
+            "locationY": 19.43,
+            "skuPickSpeed": 60
+          },
+          {
+            "skuCode": "R3327969100LE",
+            "inspectedQuantity": 2.0,
+            "taskDetailId": 1414392,
+            "locationX": 16.1,
+            "locationY": 16.76,
+            "skuPickSpeed": 60
+          },
+          {
+            "skuCode": "R3216011100LF",
+            "inspectedQuantity": 2.0,
+            "taskDetailId": 1414403,
+            "locationX": 16.1,
+            "locationY": 22.83,
+            "skuPickSpeed": 60
+          },
+          {
+            "skuCode": "R3327413470LA",
+            "inspectedQuantity": 2.0,
+            "taskDetailId": 1414409,
+            "locationX": 16.1,
+            "locationY": 14.81,
+            "skuPickSpeed": 60
+          },
+          {
+            "skuCode": "R3414479820LA",
+            "inspectedQuantity": 2.0,
+            "taskDetailId": 1414354,
+            "locationX": 17.84,
+            "locationY": 16.51,
+            "skuPickSpeed": 60
+          },
+          {
+            "skuCode": "R3216013470LF",
+            "inspectedQuantity": 2.0,
+            "taskDetailId": 1414360,
+            "locationX": 16.1,
+            "locationY": 22.59,
+            "skuPickSpeed": 60
+          },
+          {
+            "skuCode": "R3414010470LC",
+            "inspectedQuantity": 1.0,
+            "taskDetailId": 1414368,
+            "locationX": 16.1,
+            "locationY": 20.16,
+            "skuPickSpeed": 60
+          },
+          {
+            "skuCode": "R3414130220LA",
+            "inspectedQuantity": 1.0,
+            "taskDetailId": 1414378,
+            "locationX": 17.84,
+            "locationY": 11.65,
+            "skuPickSpeed": 60
+          },
+          {
+            "skuCode": "R3414479910LA",
+            "inspectedQuantity": 1.0,
+            "taskDetailId": 1414387,
+            "locationX": 17.84,
+            "locationY": 18.46,
+            "skuPickSpeed": 60
+          },
+          {
+            "skuCode": "R3414479680LA",
+            "inspectedQuantity": 3.0,
+            "taskDetailId": 1414393,
+            "locationX": 17.84,
+            "locationY": 16.27,
+            "skuPickSpeed": 60
+          },
+          {
+            "skuCode": "R3311254100LC",
+            "inspectedQuantity": 1.0,
+            "taskDetailId": 1414402,
+            "locationX": 16.1,
+            "locationY": 11.65,
+            "skuPickSpeed": 60
+          },
+          {
+            "skuCode": "R3327333505LA",
+            "inspectedQuantity": 2.0,
+            "taskDetailId": 1414408,
+            "locationX": 16.1,
+            "locationY": 14.81,
+            "skuPickSpeed": 60
+          },
+          {
+            "skuCode": "R3311811180LA",
+            "inspectedQuantity": 1.0,
+            "taskDetailId": 1414352,
+            "locationX": 16.1,
+            "locationY": 17.73,
+            "skuPickSpeed": 60
+          },
+          {
+            "skuCode": "R3327810220LG",
+            "inspectedQuantity": 3.0,
+            "taskDetailId": 1414362,
+            "locationX": 16.1,
+            "locationY": 22.1,
+            "skuPickSpeed": 60
+          },
+          {
+            "skuCode": "R3327800390LA",
+            "inspectedQuantity": 2.0,
+            "taskDetailId": 1414370,
+            "locationX": 16.1,
+            "locationY": 19.67,
+            "skuPickSpeed": 60
+          },
+          {
+            "skuCode": "R3327800470LC",
+            "inspectedQuantity": 4.0,
+            "taskDetailId": 1414376,
+            "locationX": 16.1,
+            "locationY": 12.87,
+            "skuPickSpeed": 60
+          },
+          {
+            "skuCode": "R3327333511LA",
+            "inspectedQuantity": 1.0,
+            "taskDetailId": 1414385,
+            "locationX": 16.1,
+            "locationY": 20.16,
+            "skuPickSpeed": 60
+          },
+          {
+            "skuCode": "R3311323470LF",
+            "inspectedQuantity": 1.0,
+            "taskDetailId": 1414395,
+            "locationX": 16.1,
+            "locationY": 15.79,
+            "skuPickSpeed": 60
+          },
+          {
+            "skuCode": "R3414470100LA",
+            "inspectedQuantity": 3.0,
+            "taskDetailId": 1414400,
+            "locationX": 17.84,
+            "locationY": 12.14,
+            "skuPickSpeed": 60
+          },
+          {
+            "skuCode": "R3327234100LB",
+            "inspectedQuantity": 12.0,
+            "taskDetailId": 1414410,
+            "locationX": 16.1,
+            "locationY": 14.57,
+            "skuPickSpeed": 60
+          },
+          {
+            "skuCode": "R3414479820LA",
+            "inspectedQuantity": 1.0,
+            "taskDetailId": 1414353,
+            "locationX": 17.84,
+            "locationY": 16.51,
+            "skuPickSpeed": 60
+          },
+          {
+            "skuCode": "R3327964220LA",
+            "inspectedQuantity": 4.0,
+            "taskDetailId": 1414363,
+            "locationX": 16.1,
+            "locationY": 21.13,
+            "skuPickSpeed": 60
+          },
+          {
+            "skuCode": "R3327801100LF",
+            "inspectedQuantity": 4.0,
+            "taskDetailId": 1414371,
+            "locationX": 16.1,
+            "locationY": 16.27,
+            "skuPickSpeed": 60
+          },
+          {
+            "skuCode": "R3414479270LA",
+            "inspectedQuantity": 3.0,
+            "taskDetailId": 1414377,
+            "locationX": 16.1,
+            "locationY": 12.38,
+            "skuPickSpeed": 60
+          },
+          {
+            "skuCode": "R3327333512LC",
+            "inspectedQuantity": 2.0,
+            "taskDetailId": 1414384,
+            "locationX": 16.1,
+            "locationY": 20.4,
+            "skuPickSpeed": 60
+          },
+          {
+            "skuCode": "R3327819820LB",
+            "inspectedQuantity": 2.0,
+            "taskDetailId": 1414394,
+            "locationX": 16.1,
+            "locationY": 16.27,
+            "skuPickSpeed": 60
+          },
+          {
+            "skuCode": "R3311254100LC",
+            "inspectedQuantity": 1.0,
+            "taskDetailId": 1414401,
+            "locationX": 16.1,
+            "locationY": 11.65,
+            "skuPickSpeed": 60
+          },
+          {
+            "skuCode": "R3327333504LC",
+            "inspectedQuantity": 5.0,
+            "taskDetailId": 1414411,
+            "locationX": 16.1,
+            "locationY": 13.84,
+            "skuPickSpeed": 60
+          },
+          {
+            "skuCode": "R3327213470LB",
+            "inspectedQuantity": 1.0,
+            "taskDetailId": 1414350,
+            "locationX": 16.1,
+            "locationY": 20.89,
+            "skuPickSpeed": 60
+          },
+          {
+            "skuCode": "R3414479430LA",
+            "inspectedQuantity": 8.0,
+            "taskDetailId": 1414359,
+            "locationX": 17.84,
+            "locationY": 11.65,
+            "skuPickSpeed": 60
+          },
+          {
+            "skuCode": "R3327800390LE",
+            "inspectedQuantity": 3.0,
+            "taskDetailId": 1414365,
+            "locationX": 16.1,
+            "locationY": 20.65,
+            "skuPickSpeed": 60
+          },
+          {
+            "skuCode": "R3414479360LA",
+            "inspectedQuantity": 3.0,
+            "taskDetailId": 1414373,
+            "locationX": 17.84,
+            "locationY": 15.54,
+            "skuPickSpeed": 60
+          },
+          {
+            "skuCode": "R3327333512LC",
+            "inspectedQuantity": 1.0,
+            "taskDetailId": 1414383,
+            "locationX": 16.1,
+            "locationY": 20.4,
+            "skuPickSpeed": 60
+          },
+          {
+            "skuCode": "R3414479270LA",
+            "inspectedQuantity": 2.0,
+            "taskDetailId": 1414390,
+            "locationX": 17.84,
+            "locationY": 17.0,
+            "skuPickSpeed": 60
+          },
+          {
+            "skuCode": "R3326362100LD",
+            "inspectedQuantity": 6.0,
+            "taskDetailId": 1414396,
+            "locationX": 16.1,
+            "locationY": 15.54,
+            "skuPickSpeed": 60
+          },
+          {
+            "skuCode": "R3414999910LB",
+            "inspectedQuantity": 6.0,
+            "taskDetailId": 1414407,
+            "locationX": 17.84,
+            "locationY": 16.76,
+            "skuPickSpeed": 60
+          },
+          {
+            "skuCode": "R3327322470LC",
+            "inspectedQuantity": 2.0,
+            "taskDetailId": 1414413,
+            "locationX": 16.1,
+            "locationY": 12.87,
+            "skuPickSpeed": 60
+          },
+          {
+            "skuCode": "R3327322470LG",
+            "inspectedQuantity": 1.0,
+            "taskDetailId": 1414349,
+            "locationX": 16.1,
+            "locationY": 22.35,
+            "skuPickSpeed": 60
+          },
+          {
+            "skuCode": "R3327323100LC",
+            "inspectedQuantity": 5.0,
+            "taskDetailId": 1414356,
+            "locationX": 16.1,
+            "locationY": 14.08,
+            "skuPickSpeed": 60
+          },
+          {
+            "skuCode": "R3414479330LA",
+            "inspectedQuantity": 1.0,
+            "taskDetailId": 1414366,
+            "locationX": 17.84,
+            "locationY": 20.4,
+            "skuPickSpeed": 60
+          },
+          {
+            "skuCode": "R3414479360LA",
+            "inspectedQuantity": 1.0,
+            "taskDetailId": 1414374,
+            "locationX": 17.84,
+            "locationY": 15.54,
+            "skuPickSpeed": 60
+          },
+          {
+            "skuCode": "R3327333501LC",
+            "inspectedQuantity": 4.0,
+            "taskDetailId": 1414380,
+            "locationX": 16.1,
+            "locationY": 21.13,
+            "skuPickSpeed": 60
+          },
+          {
+            "skuCode": "R3414299100LC",
+            "inspectedQuantity": 5.0,
+            "taskDetailId": 1414389,
+            "locationX": 17.84,
+            "locationY": 17.24,
+            "skuPickSpeed": 60
+          },
+          {
+            "skuCode": "R3327800150LB",
+            "inspectedQuantity": 3.0,
+            "taskDetailId": 1414399,
+            "locationX": 16.1,
+            "locationY": 12.63,
+            "skuPickSpeed": 60
+          },
+          {
+            "skuCode": "R3327333507LC",
+            "inspectedQuantity": 2.0,
+            "taskDetailId": 1414404,
+            "locationX": 16.1,
+            "locationY": 17.73,
+            "skuPickSpeed": 60
+          },
+          {
+            "skuCode": "R3414470150LA",
+            "inspectedQuantity": 1.0,
+            "taskDetailId": 1414414,
+            "locationX": 17.84,
+            "locationY": 12.38,
+            "skuPickSpeed": 60
+          }
+        ],
+        "timeLine": "2026-01-18 16:45:23"
+      },
+      {
+        "IngredientList": "CLCK202601160023",
+        "mainId": 674603,
+        "taskId": "CLCK202601160023#1052702",
+        "taskPriority": 2,
+        "skuList": [
+          {
+            "skuCode": "R9010000060LA",
+            "inspectedQuantity": 1.0,
+            "taskDetailId": 1414420,
+            "locationX": 19.04,
+            "locationY": 13.84,
+            "skuPickSpeed": 60
+          },
+          {
+            "skuCode": "R3422992100LD",
+            "inspectedQuantity": 8.0,
+            "taskDetailId": 1414430,
+            "locationX": 19.04,
+            "locationY": 16.03,
+            "skuPickSpeed": 60
+          },
+          {
+            "skuCode": "R9010000049LA",
+            "inspectedQuantity": 1.0,
+            "taskDetailId": 1414438,
+            "locationX": 19.04,
+            "locationY": 13.36,
+            "skuPickSpeed": 60
+          },
+          {
+            "skuCode": "R3422992100LB",
+            "inspectedQuantity": 20.0,
+            "taskDetailId": 1414444,
+            "locationX": 19.04,
+            "locationY": 17.24,
+            "skuPickSpeed": 60
+          },
+          {
+            "skuCode": "R3413480390LA",
+            "inspectedQuantity": 16.0,
+            "taskDetailId": 1414417,
+            "locationX": 19.04,
+            "locationY": 11.9,
+            "skuPickSpeed": 60
+          },
+          {
+            "skuCode": "R3430982220LK",
+            "inspectedQuantity": 3.0,
+            "taskDetailId": 1414427,
+            "locationX": 19.04,
+            "locationY": 14.57,
+            "skuPickSpeed": 60
+          },
+          {
+            "skuCode": "R3430481390LA",
+            "inspectedQuantity": 4.0,
+            "taskDetailId": 1414435,
+            "locationX": 19.04,
+            "locationY": 12.38,
+            "skuPickSpeed": 60
+          },
+          {
+            "skuCode": "R3414479390LA",
+            "inspectedQuantity": 5.0,
+            "taskDetailId": 1414441,
+            "locationX": 19.04,
+            "locationY": 14.08,
+            "skuPickSpeed": 60
+          },
+          {
+            "skuCode": "R3411999390LG",
+            "inspectedQuantity": 1.0,
+            "taskDetailId": 1414448,
+            "locationX": 19.04,
+            "locationY": 21.37,
+            "skuPickSpeed": 60
+          },
+          {
+            "skuCode": "R9010000060LA",
+            "inspectedQuantity": 1.0,
+            "taskDetailId": 1414421,
+            "locationX": 19.04,
+            "locationY": 13.84,
+            "skuPickSpeed": 60
+          },
+          {
+            "skuCode": "R3431991470LA",
+            "inspectedQuantity": 17.0,
+            "taskDetailId": 1414431,
+            "locationX": 19.04,
+            "locationY": 16.76,
+            "skuPickSpeed": 60
+          },
+          {
+            "skuCode": "R3431992220LA",
+            "inspectedQuantity": 2.0,
+            "taskDetailId": 1414439,
+            "locationX": 19.04,
+            "locationY": 13.84,
+            "skuPickSpeed": 60
+          },
+          {
+            "skuCode": "R3414299150LC",
+            "inspectedQuantity": 2.0,
+            "taskDetailId": 1414445,
+            "locationX": 19.04,
+            "locationY": 17.49,
+            "skuPickSpeed": 60
+          },
+          {
+            "skuCode": "R9010000052LA",
+            "inspectedQuantity": 2.0,
+            "taskDetailId": 1414418,
+            "locationX": 19.04,
+            "locationY": 12.14,
+            "skuPickSpeed": 60
+          },
+          {
+            "skuCode": "R9010000061LA",
+            "inspectedQuantity": 4.0,
+            "taskDetailId": 1414424,
+            "locationX": 19.04,
+            "locationY": 13.36,
+            "skuPickSpeed": 60
+          },
+          {
+            "skuCode": "R3430471390LA",
+            "inspectedQuantity": 4.0,
+            "taskDetailId": 1414432,
+            "locationX": 19.04,
+            "locationY": 17.49,
+            "skuPickSpeed": 60
+          },
+          {
+            "skuCode": "R3430991680LE",
+            "inspectedQuantity": 4.0,
+            "taskDetailId": 1414442,
+            "locationX": 19.04,
+            "locationY": 15.79,
+            "skuPickSpeed": 60
+          },
+          {
+            "skuCode": "R3430993100LP",
+            "inspectedQuantity": 1.0,
+            "taskDetailId": 1414423,
+            "locationX": 19.04,
+            "locationY": 12.63,
+            "skuPickSpeed": 60
+          },
+          {
+            "skuCode": "R9010000048LA",
+            "inspectedQuantity": 4.0,
+            "taskDetailId": 1414429,
+            "locationX": 19.04,
+            "locationY": 15.79,
+            "skuPickSpeed": 60
+          },
+          {
+            "skuCode": "R3414999180LA",
+            "inspectedQuantity": 3.0,
+            "taskDetailId": 1414437,
+            "locationX": 19.04,
+            "locationY": 13.11,
+            "skuPickSpeed": 60
+          },
+          {
+            "skuCode": "R9010000069LA",
+            "inspectedQuantity": 2.0,
+            "taskDetailId": 1414447,
+            "locationX": 19.04,
+            "locationY": 19.67,
+            "skuPickSpeed": 60
+          },
+          {
+            "skuCode": "R9010000061LA",
+            "inspectedQuantity": 5.0,
+            "taskDetailId": 1414419,
+            "locationX": 19.04,
+            "locationY": 13.36,
+            "skuPickSpeed": 60
+          },
+          {
+            "skuCode": "R3430992470LY",
+            "inspectedQuantity": 3.0,
+            "taskDetailId": 1414425,
+            "locationX": 19.04,
+            "locationY": 13.84,
+            "skuPickSpeed": 60
+          },
+          {
+            "skuCode": "R3430471330LA",
+            "inspectedQuantity": 1.0,
+            "taskDetailId": 1414433,
+            "locationX": 19.04,
+            "locationY": 20.4,
+            "skuPickSpeed": 60
+          },
+          {
+            "skuCode": "R3422992100LB",
+            "inspectedQuantity": 5.0,
+            "taskDetailId": 1414443,
+            "locationX": 19.04,
+            "locationY": 17.0,
+            "skuPickSpeed": 60
+          },
+          {
+            "skuCode": "R3430992470LY",
+            "inspectedQuantity": 4.0,
+            "taskDetailId": 1414422,
+            "locationX": 19.04,
+            "locationY": 19.67,
+            "skuPickSpeed": 60
+          },
+          {
+            "skuCode": "R9010000075LA",
+            "inspectedQuantity": 1.0,
+            "taskDetailId": 1414428,
+            "locationX": 19.04,
+            "locationY": 15.06,
+            "skuPickSpeed": 60
+          },
+          {
+            "skuCode": "R3414999180LA",
+            "inspectedQuantity": 1.0,
+            "taskDetailId": 1414436,
+            "locationX": 19.04,
+            "locationY": 13.11,
+            "skuPickSpeed": 60
+          },
+          {
+            "skuCode": "R3414479300LA",
+            "inspectedQuantity": 6.0,
+            "taskDetailId": 1414446,
+            "locationX": 19.04,
+            "locationY": 19.19,
+            "skuPickSpeed": 60
+          },
+          {
+            "skuCode": "R3430993100LE",
+            "inspectedQuantity": 1.0,
+            "taskDetailId": 1414416,
+            "locationX": 19.04,
+            "locationY": 19.92,
+            "skuPickSpeed": 60
+          },
+          {
+            "skuCode": "R3430992470LY",
+            "inspectedQuantity": 3.0,
+            "taskDetailId": 1414426,
+            "locationX": 19.04,
+            "locationY": 13.84,
+            "skuPickSpeed": 60
+          },
+          {
+            "skuCode": "R9112000031LA",
+            "inspectedQuantity": 3.0,
+            "taskDetailId": 1414434,
+            "locationX": 19.04,
+            "locationY": 12.14,
+            "skuPickSpeed": 60
+          },
+          {
+            "skuCode": "R3431992220LA",
+            "inspectedQuantity": 4.0,
+            "taskDetailId": 1414440,
+            "locationX": 19.04,
+            "locationY": 13.84,
+            "skuPickSpeed": 60
+          }
+        ],
+        "timeLine": "2026-01-18 16:45:23"
+      },
+      {
+        "IngredientList": "CLCK202601160023",
+        "mainId": 674598,
+        "taskId": "CLCK202601160023#1052594",
+        "taskPriority": 2,
+        "skuList": [
+          {
+            "skuCode": "R9511000010LA",
+            "inspectedQuantity": 8.0,
+            "taskDetailId": 1414189,
+            "locationX": 0.63,
+            "locationY": 6.52,
+            "skuPickSpeed": 60
+          },
+          {
+            "skuCode": "R9511000010LA",
+            "inspectedQuantity": 2.0,
+            "taskDetailId": 1414190,
+            "locationX": 1.88,
+            "locationY": 6.52,
+            "skuPickSpeed": 60
+          }
+        ],
+        "timeLine": "2026-01-18 16:45:23"
+      },
+      {
+        "IngredientList": "CLCK202601160023",
+        "mainId": 674595,
+        "taskId": "CLCK202601160023",
+        "taskPriority": 2,
+        "skuList": [
+          {
+            "skuCode": "R3216013100LF",
+            "inspectedQuantity": 48.0,
+            "taskDetailId": 1414166,
+            "locationX": 3.13,
+            "locationY": 15.429,
+            "skuPickSpeed": 60
+          },
+          {
+            "skuCode": "R3216012470LE",
+            "inspectedQuantity": 1.0,
+            "taskDetailId": 1414164,
+            "locationX": 3.13,
+            "locationY": 15.429,
+            "skuPickSpeed": 60
+          },
+          {
+            "skuCode": "R3216019000LF",
+            "inspectedQuantity": 34.0,
+            "taskDetailId": 1414161,
+            "locationX": 0.63,
+            "locationY": 15.429,
+            "skuPickSpeed": 60
+          },
+          {
+            "skuCode": "R3216014100LE",
+            "inspectedQuantity": 27.0,
+            "taskDetailId": 1414163,
+            "locationX": 1.88,
+            "locationY": 15.429,
+            "skuPickSpeed": 60
+          },
+          {
+            "skuCode": "R3210019000LG",
+            "inspectedQuantity": 31.0,
+            "taskDetailId": 1414167,
+            "locationX": 4.38,
+            "locationY": 15.429,
+            "skuPickSpeed": 60
+          },
+          {
+            "skuCode": "R3216012470LE",
+            "inspectedQuantity": 8.0,
+            "taskDetailId": 1414165,
+            "locationX": 3.13,
+            "locationY": 15.429,
+            "skuPickSpeed": 60
+          },
+          {
+            "skuCode": "R3216019000LF",
+            "inspectedQuantity": 82.0,
+            "taskDetailId": 1414162,
+            "locationX": 0.63,
+            "locationY": 15.429,
+            "skuPickSpeed": 60
+          },
+          {
+            "skuCode": "R3216012100LF",
+            "inspectedQuantity": 29.0,
+            "taskDetailId": 1414168,
+            "locationX": 4.38,
+            "locationY": 15.429,
+            "skuPickSpeed": 60
+          }
+        ],
+        "timeLine": "2026-01-18 16:45:23"
+      },
+      {
+        "IngredientList": "CLCK202601160023",
+        "mainId": 674601,
+        "taskId": "CLCK202601160023#1052698",
+        "taskPriority": 2,
+        "skuList": [
+          {
+            "skuCode": "R3311810820LI",
+            "inspectedQuantity": 1.0,
+            "taskDetailId": 1414259,
+            "locationX": 14.9,
+            "locationY": 15.06,
+            "skuPickSpeed": 60
+          },
+          {
+            "skuCode": "R3327223100LB",
+            "inspectedQuantity": 3.0,
+            "taskDetailId": 1414265,
+            "locationX": 13.8,
+            "locationY": 22.35,
+            "skuPickSpeed": 60
+          },
+          {
+            "skuCode": "R3216015100LE",
+            "inspectedQuantity": 5.0,
+            "taskDetailId": 1414279,
+            "locationX": 13.8,
+            "locationY": 16.27,
+            "skuPickSpeed": 60
+          },
+          {
+            "skuCode": "R3311960390LD",
+            "inspectedQuantity": 2.0,
+            "taskDetailId": 1414285,
+            "locationX": 13.8,
+            "locationY": 17.49,
+            "skuPickSpeed": 60
+          },
+          {
+            "skuCode": "R3311811220LF",
+            "inspectedQuantity": 1.0,
+            "taskDetailId": 1414292,
+            "locationX": 14.9,
+            "locationY": 20.89,
+            "skuPickSpeed": 60
+          },
+          {
+            "skuCode": "R3321245220LE",
+            "inspectedQuantity": 11.0,
+            "taskDetailId": 1414302,
+            "locationX": 14.9,
+            "locationY": 14.08,
+            "skuPickSpeed": 60
+          },
+          {
+            "skuCode": "R3216010100LE",
+            "inspectedQuantity": 2.0,
+            "taskDetailId": 1414310,
+            "locationX": 13.8,
+            "locationY": 17.73,
+            "skuPickSpeed": 60
+          },
+          {
+            "skuCode": "R3216012470LE",
+            "inspectedQuantity": 9.0,
+            "taskDetailId": 1414316,
+            "locationX": 14.9,
+            "locationY": 19.43,
+            "skuPickSpeed": 60
+          },
+          {
+            "skuCode": "R3210010100LG",
+            "inspectedQuantity": 4.0,
+            "taskDetailId": 1414325,
+            "locationX": 13.8,
+            "locationY": 22.1,
+            "skuPickSpeed": 60
+          },
+          {
+            "skuCode": "R3311415220LD",
+            "inspectedQuantity": 1.0,
+            "taskDetailId": 1414335,
+            "locationX": 14.9,
+            "locationY": 13.6,
+            "skuPickSpeed": 60
+          },
+          {
+            "skuCode": "R3216004470LD",
+            "inspectedQuantity": 2.0,
+            "taskDetailId": 1414341,
+            "locationX": 13.8,
+            "locationY": 17.49,
+            "skuPickSpeed": 60
+          },
+          {
+            "skuCode": "R3311215100LE",
+            "inspectedQuantity": 1.0,
+            "taskDetailId": 1414257,
+            "locationX": 14.9,
+            "locationY": 13.6,
+            "skuPickSpeed": 60
+          },
+          {
+            "skuCode": "R3327810680LA",
+            "inspectedQuantity": 3.0,
+            "taskDetailId": 1414267,
+            "locationX": 13.8,
+            "locationY": 23.08,
+            "skuPickSpeed": 60
+          },
+          {
+            "skuCode": "R3216010330LF",
+            "inspectedQuantity": 1.0,
+            "taskDetailId": 1414277,
+            "locationX": 14.9,
+            "locationY": 15.3,
+            "skuPickSpeed": 60
+          },
+          {
+            "skuCode": "R3321255220LA",
+            "inspectedQuantity": 1.0,
+            "taskDetailId": 1414287,
+            "locationX": 14.9,
+            "locationY": 19.19,
+            "skuPickSpeed": 60
+          },
+          {
+            "skuCode": "R3216002249LA",
+            "inspectedQuantity": 1.0,
+            "taskDetailId": 1414294,
+            "locationX": 14.9,
+            "locationY": 22.35,
+            "skuPickSpeed": 60
+          },
+          {
+            "skuCode": "R3311353100LB",
+            "inspectedQuantity": 6.0,
+            "taskDetailId": 1414300,
+            "locationX": 14.9,
+            "locationY": 13.36,
+            "skuPickSpeed": 60
+          },
+          {
+            "skuCode": "R3327415220LC",
+            "inspectedQuantity": 3.0,
+            "taskDetailId": 1414308,
+            "locationX": 14.9,
+            "locationY": 16.51,
+            "skuPickSpeed": 60
+          },
+          {
+            "skuCode": "R3327810100LF",
+            "inspectedQuantity": 1.0,
+            "taskDetailId": 1414318,
+            "locationX": 14.9,
+            "locationY": 19.67,
+            "skuPickSpeed": 60
+          },
+          {
+            "skuCode": "R3216001390LD",
+            "inspectedQuantity": 1.0,
+            "taskDetailId": 1414327,
+            "locationX": 14.9,
+            "locationY": 22.59,
+            "skuPickSpeed": 60
+          },
+          {
+            "skuCode": "R3216003200LC",
+            "inspectedQuantity": 1.0,
+            "taskDetailId": 1414333,
+            "locationX": 13.8,
+            "locationY": 13.6,
+            "skuPickSpeed": 60
+          },
+          {
+            "skuCode": "R3216003220LA",
+            "inspectedQuantity": 2.0,
+            "taskDetailId": 1414343,
+            "locationX": 13.8,
+            "locationY": 19.67,
+            "skuPickSpeed": 60
+          },
+          {
+            "skuCode": "R3214010000LA",
+            "inspectedQuantity": 1.0,
+            "taskDetailId": 1414252,
+            "locationX": 13.8,
+            "locationY": 11.9,
+            "skuPickSpeed": 60
+          },
+          {
+            "skuCode": "R3210009030LC",
+            "inspectedQuantity": 6.0,
+            "taskDetailId": 1414261,
+            "locationX": 14.9,
+            "locationY": 16.03,
+            "skuPickSpeed": 60
+          },
+          {
+            "skuCode": "R3327800820LA",
+            "inspectedQuantity": 1.0,
+            "taskDetailId": 1414271,
+            "locationX": 13.8,
+            "locationY": 14.08,
+            "skuPickSpeed": 60
+          },
+          {
+            "skuCode": "R3216004390LD",
+            "inspectedQuantity": 2.0,
+            "taskDetailId": 1414273,
+            "locationX": 13.8,
+            "locationY": 14.57,
+            "skuPickSpeed": 60
+          },
+          {
+            "skuCode": "R3321235470LC",
+            "inspectedQuantity": 4.0,
+            "taskDetailId": 1414283,
+            "locationX": 14.9,
+            "locationY": 16.76,
+            "skuPickSpeed": 60
+          },
+          {
+            "skuCode": "R3311661270LA",
+            "inspectedQuantity": 1.0,
+            "taskDetailId": 1414290,
+            "locationX": 13.8,
+            "locationY": 20.65,
+            "skuPickSpeed": 60
+          },
+          {
+            "skuCode": "R3216003390LF",
+            "inspectedQuantity": 1.0,
+            "taskDetailId": 1414296,
+            "locationX": 13.8,
+            "locationY": 11.65,
+            "skuPickSpeed": 60
+          },
+          {
+            "skuCode": "R3216002150LD",
+            "inspectedQuantity": 2.0,
+            "taskDetailId": 1414304,
+            "locationX": 13.8,
+            "locationY": 15.54,
+            "skuPickSpeed": 60
+          },
+          {
+            "skuCode": "R3210003390LD",
+            "inspectedQuantity": 2.0,
+            "taskDetailId": 1414314,
+            "locationX": 13.8,
+            "locationY": 19.19,
+            "skuPickSpeed": 60
+          },
+          {
+            "skuCode": "R3311244100LG",
+            "inspectedQuantity": 4.0,
+            "taskDetailId": 1414323,
+            "locationX": 14.9,
+            "locationY": 21.62,
+            "skuPickSpeed": 60
+          },
+          {
+            "skuCode": "R3311351220LG",
+            "inspectedQuantity": 2.0,
+            "taskDetailId": 1414329,
+            "locationX": 13.8,
+            "locationY": 23.08,
+            "skuPickSpeed": 60
+          },
+          {
+            "skuCode": "R3210003270LD",
+            "inspectedQuantity": 2.0,
+            "taskDetailId": 1414339,
+            "locationX": 13.8,
+            "locationY": 16.03,
+            "skuPickSpeed": 60
+          },
+          {
+            "skuCode": "R3216004200LA",
+            "inspectedQuantity": 1.0,
+            "taskDetailId": 1414345,
+            "locationX": 14.9,
+            "locationY": 22.1,
+            "skuPickSpeed": 60
+          },
+          {
+            "skuCode": "R3327415100LA",
+            "inspectedQuantity": 12.0,
+            "taskDetailId": 1414254,
+            "locationX": 14.9,
+            "locationY": 12.38,
+            "skuPickSpeed": 60
+          },
+          {
+            "skuCode": "R3216003402LE",
+            "inspectedQuantity": 1.0,
+            "taskDetailId": 1414263,
+            "locationX": 13.8,
+            "locationY": 17.49,
+            "skuPickSpeed": 60
+          },
+          {
+            "skuCode": "R3311810680LJ",
+            "inspectedQuantity": 3.0,
+            "taskDetailId": 1414269,
+            "locationX": 14.9,
+            "locationY": 12.14,
+            "skuPickSpeed": 60
+          },
+          {
+            "skuCode": "R3216003178LB",
+            "inspectedQuantity": 1.0,
+            "taskDetailId": 1414275,
+            "locationX": 14.9,
+            "locationY": 14.81,
+            "skuPickSpeed": 60
+          },
+          {
+            "skuCode": "R3321235470LC",
+            "inspectedQuantity": 4.0,
+            "taskDetailId": 1414281,
+            "locationX": 14.9,
+            "locationY": 16.76,
+            "skuPickSpeed": 60
+          },
+          {
+            "skuCode": "R3327999200LA",
+            "inspectedQuantity": 1.0,
+            "taskDetailId": 1414288,
+            "locationX": 14.9,
+            "locationY": 19.43,
+            "skuPickSpeed": 60
+          },
+          {
+            "skuCode": "R3216010220LE",
+            "inspectedQuantity": 4.0,
+            "taskDetailId": 1414298,
+            "locationX": 14.9,
+            "locationY": 12.38,
+            "skuPickSpeed": 60
+          },
+          {
+            "skuCode": "R3311234100LI",
+            "inspectedQuantity": 1.0,
+            "taskDetailId": 1414306,
+            "locationX": 13.8,
+            "locationY": 15.79,
+            "skuPickSpeed": 60
+          },
+          {
+            "skuCode": "R3216011100LF",
+            "inspectedQuantity": 4.0,
+            "taskDetailId": 1414312,
+            "locationX": 13.8,
+            "locationY": 18.94,
+            "skuPickSpeed": 60
+          },
+          {
+            "skuCode": "R3216000430LE",
+            "inspectedQuantity": 1.0,
+            "taskDetailId": 1414321,
+            "locationX": 13.8,
+            "locationY": 21.37,
+            "skuPickSpeed": 60
+          },
+          {
+            "skuCode": "R3216003330LD",
+            "inspectedQuantity": 2.0,
+            "taskDetailId": 1414331,
+            "locationX": 13.8,
+            "locationY": 11.9,
+            "skuPickSpeed": 60
+          },
+          {
+            "skuCode": "R3216013510LE",
+            "inspectedQuantity": 1.0,
+            "taskDetailId": 1414337,
+            "locationX": 13.8,
+            "locationY": 15.06,
+            "skuPickSpeed": 60
+          },
+          {
+            "skuCode": "R3216015100LE",
+            "inspectedQuantity": 1.0,
+            "taskDetailId": 1414347,
+            "locationX": 13.8,
+            "locationY": 22.59,
+            "skuPickSpeed": 60
+          },
+          {
+            "skuCode": "R3214010000LA",
+            "inspectedQuantity": 1.0,
+            "taskDetailId": 1414251,
+            "locationX": 13.8,
+            "locationY": 11.9,
+            "skuPickSpeed": 60
+          },
+          {
+            "skuCode": "R3321436220LB",
+            "inspectedQuantity": 3.0,
+            "taskDetailId": 1414258,
+            "locationX": 14.9,
+            "locationY": 14.81,
+            "skuPickSpeed": 60
+          },
+          {
+            "skuCode": "R3321225470LG",
+            "inspectedQuantity": 4.0,
+            "taskDetailId": 1414264,
+            "locationX": 14.9,
+            "locationY": 19.19,
+            "skuPickSpeed": 60
+          },
+          {
+            "skuCode": "R3216013200LE",
+            "inspectedQuantity": 2.0,
+            "taskDetailId": 1414278,
+            "locationX": 13.8,
+            "locationY": 15.54,
+            "skuPickSpeed": 60
+          },
+          {
+            "skuCode": "R3327969200LC",
+            "inspectedQuantity": 1.0,
+            "taskDetailId": 1414284,
+            "locationX": 14.9,
+            "locationY": 17.24,
+            "skuPickSpeed": 60
+          },
+          {
+            "skuCode": "R3216002750LE",
+            "inspectedQuantity": 3.0,
+            "taskDetailId": 1414293,
+            "locationX": 13.8,
+            "locationY": 22.1,
+            "skuPickSpeed": 60
+          },
+          {
+            "skuCode": "R3216000100LC",
+            "inspectedQuantity": 9.0,
+            "taskDetailId": 1414303,
+            "locationX": 14.9,
+            "locationY": 15.3,
+            "skuPickSpeed": 60
+          },
+          {
+            "skuCode": "R3216011100LF",
+            "inspectedQuantity": 1.0,
+            "taskDetailId": 1414311,
+            "locationX": 13.8,
+            "locationY": 18.94,
+            "skuPickSpeed": 60
+          },
+          {
+            "skuCode": "R3311811120LI",
+            "inspectedQuantity": 2.0,
+            "taskDetailId": 1414317,
+            "locationX": 13.8,
+            "locationY": 19.67,
+            "skuPickSpeed": 60
+          },
+          {
+            "skuCode": "R3216001560LB",
+            "inspectedQuantity": 2.0,
+            "taskDetailId": 1414324,
+            "locationX": 13.8,
+            "locationY": 21.86,
+            "skuPickSpeed": 60
+          },
+          {
+            "skuCode": "R3311415220LD",
+            "inspectedQuantity": 1.0,
+            "taskDetailId": 1414334,
+            "locationX": 14.9,
+            "locationY": 13.6,
+            "skuPickSpeed": 60
+          },
+          {
+            "skuCode": "R3216001240LE",
+            "inspectedQuantity": 5.0,
+            "taskDetailId": 1414340,
+            "locationX": 14.9,
+            "locationY": 16.51,
+            "skuPickSpeed": 60
+          },
+          {
+            "skuCode": "R3210003100LE",
+            "inspectedQuantity": 2.0,
+            "taskDetailId": 1414255,
+            "locationX": 13.8,
+            "locationY": 12.87,
+            "skuPickSpeed": 60
+          },
+          {
+            "skuCode": "R3322416470LG",
+            "inspectedQuantity": 2.0,
+            "taskDetailId": 1414262,
+            "locationX": 14.9,
+            "locationY": 16.51,
+            "skuPickSpeed": 60
+          },
+          {
+            "skuCode": "R3311214330LB",
+            "inspectedQuantity": 4.0,
+            "taskDetailId": 1414268,
+            "locationX": 14.9,
+            "locationY": 23.08,
+            "skuPickSpeed": 60
+          },
+          {
+            "skuCode": "R3216004390LD",
+            "inspectedQuantity": 2.0,
+            "taskDetailId": 1414274,
+            "locationX": 13.8,
+            "locationY": 14.57,
+            "skuPickSpeed": 60
+          },
+          {
+            "skuCode": "R3216003200LC",
+            "inspectedQuantity": 2.0,
+            "taskDetailId": 1414280,
+            "locationX": 13.8,
+            "locationY": 16.51,
+            "skuPickSpeed": 60
+          },
+          {
+            "skuCode": "R3210016100LA",
+            "inspectedQuantity": 7.0,
+            "taskDetailId": 1414289,
+            "locationX": 13.8,
+            "locationY": 19.92,
+            "skuPickSpeed": 60
+          },
+          {
+            "skuCode": "R3311353100LB",
+            "inspectedQuantity": 1.0,
+            "taskDetailId": 1414299,
+            "locationX": 14.9,
+            "locationY": 13.36,
+            "skuPickSpeed": 60
+          },
+          {
+            "skuCode": "R3216012220LF",
+            "inspectedQuantity": 3.0,
+            "taskDetailId": 1414307,
+            "locationX": 13.8,
+            "locationY": 16.27,
+            "skuPickSpeed": 60
+          },
+          {
+            "skuCode": "R3321416100LF",
+            "inspectedQuantity": 7.0,
+            "taskDetailId": 1414313,
+            "locationX": 14.9,
+            "locationY": 18.94,
+            "skuPickSpeed": 60
+          },
+          {
+            "skuCode": "R3311425220LE",
+            "inspectedQuantity": 4.0,
+            "taskDetailId": 1414320,
+            "locationX": 13.8,
+            "locationY": 21.13,
+            "skuPickSpeed": 60
+          },
+          {
+            "skuCode": "R3216003300LD",
+            "inspectedQuantity": 4.0,
+            "taskDetailId": 1414330,
+            "locationX": 13.8,
+            "locationY": 11.9,
+            "skuPickSpeed": 60
+          },
+          {
+            "skuCode": "R3216003169LD",
+            "inspectedQuantity": 4.0,
+            "taskDetailId": 1414336,
+            "locationX": 13.8,
+            "locationY": 14.81,
+            "skuPickSpeed": 60
+          },
+          {
+            "skuCode": "R3216004200LA",
+            "inspectedQuantity": 2.0,
+            "taskDetailId": 1414346,
+            "locationX": 14.9,
+            "locationY": 22.1,
+            "skuPickSpeed": 60
+          },
+          {
+            "skuCode": "R3311650180LA",
+            "inspectedQuantity": 1.0,
+            "taskDetailId": 1414253,
+            "locationX": 13.8,
+            "locationY": 11.9,
+            "skuPickSpeed": 60
+          },
+          {
+            "skuCode": "R3311960560LB",
+            "inspectedQuantity": 1.0,
+            "taskDetailId": 1414260,
+            "locationX": 14.9,
+            "locationY": 15.79,
+            "skuPickSpeed": 60
+          },
+          {
+            "skuCode": "R3240004100LB",
+            "inspectedQuantity": 5.0,
+            "taskDetailId": 1414270,
+            "locationX": 13.8,
+            "locationY": 13.84,
+            "skuPickSpeed": 60
+          },
+          {
+            "skuCode": "R3311810820LI",
+            "inspectedQuantity": 1.0,
+            "taskDetailId": 1414272,
+            "locationX": 14.9,
+            "locationY": 14.33,
+            "skuPickSpeed": 60
+          },
+          {
+            "skuCode": "R3321235470LC",
+            "inspectedQuantity": 2.0,
+            "taskDetailId": 1414282,
+            "locationX": 14.9,
+            "locationY": 16.76,
+            "skuPickSpeed": 60
+          },
+          {
+            "skuCode": "R3311661270LA",
+            "inspectedQuantity": 2.0,
+            "taskDetailId": 1414291,
+            "locationX": 13.8,
+            "locationY": 20.65,
+            "skuPickSpeed": 60
+          },
+          {
+            "skuCode": "R3216012330LE",
+            "inspectedQuantity": 1.0,
+            "taskDetailId": 1414297,
+            "locationX": 14.9,
+            "locationY": 11.65,
+            "skuPickSpeed": 60
+          },
+          {
+            "skuCode": "R3311234100LI",
+            "inspectedQuantity": 3.0,
+            "taskDetailId": 1414305,
+            "locationX": 13.8,
+            "locationY": 15.79,
+            "skuPickSpeed": 60
+          },
+          {
+            "skuCode": "R3311214470LE",
+            "inspectedQuantity": 2.0,
+            "taskDetailId": 1414315,
+            "locationX": 13.8,
+            "locationY": 19.43,
+            "skuPickSpeed": 60
+          },
+          {
+            "skuCode": "R3216003180LE",
+            "inspectedQuantity": 2.0,
+            "taskDetailId": 1414322,
+            "locationX": 13.8,
+            "locationY": 21.62,
+            "skuPickSpeed": 60
+          },
+          {
+            "skuCode": "R3216001390LD",
+            "inspectedQuantity": 1.0,
+            "taskDetailId": 1414328,
+            "locationX": 14.9,
+            "locationY": 22.59,
+            "skuPickSpeed": 60
+          },
+          {
+            "skuCode": "R3216009000LC",
+            "inspectedQuantity": 1.0,
+            "taskDetailId": 1414338,
+            "locationX": 13.8,
+            "locationY": 15.79,
+            "skuPickSpeed": 60
+          },
+          {
+            "skuCode": "R3311435470LB",
+            "inspectedQuantity": 1.0,
+            "taskDetailId": 1414344,
+            "locationX": 14.9,
+            "locationY": 21.37,
+            "skuPickSpeed": 60
+          },
+          {
+            "skuCode": "R3311415470LB",
+            "inspectedQuantity": 6.0,
+            "taskDetailId": 1414256,
+            "locationX": 14.9,
+            "locationY": 12.87,
+            "skuPickSpeed": 60
+          },
+          {
+            "skuCode": "R3327810680LA",
+            "inspectedQuantity": 1.0,
+            "taskDetailId": 1414266,
+            "locationX": 13.8,
+            "locationY": 23.08,
+            "skuPickSpeed": 60
+          },
+          {
+            "skuCode": "R3216003178LB",
+            "inspectedQuantity": 1.0,
+            "taskDetailId": 1414276,
+            "locationX": 14.9,
+            "locationY": 14.81,
+            "skuPickSpeed": 60
+          },
+          {
+            "skuCode": "R3327810820LJ",
+            "inspectedQuantity": 1.0,
+            "taskDetailId": 1414286,
+            "locationX": 14.9,
+            "locationY": 17.73,
+            "skuPickSpeed": 60
+          },
+          {
+            "skuCode": "R3311224100LH",
+            "inspectedQuantity": 2.0,
+            "taskDetailId": 1414295,
+            "locationX": 14.9,
+            "locationY": 22.83,
+            "skuPickSpeed": 60
+          },
+          {
+            "skuCode": "R3216003120LE",
+            "inspectedQuantity": 2.0,
+            "taskDetailId": 1414301,
+            "locationX": 14.9,
+            "locationY": 13.6,
+            "skuPickSpeed": 60
+          },
+          {
+            "skuCode": "R3211000100LA",
+            "inspectedQuantity": 1.0,
+            "taskDetailId": 1414309,
+            "locationX": 14.9,
+            "locationY": 16.76,
+            "skuPickSpeed": 60
+          },
+          {
+            "skuCode": "R3311811180LA",
+            "inspectedQuantity": 1.0,
+            "taskDetailId": 1414319,
+            "locationX": 13.8,
+            "locationY": 20.4,
+            "skuPickSpeed": 60
+          },
+          {
+            "skuCode": "R3311960100LG",
+            "inspectedQuantity": 4.0,
+            "taskDetailId": 1414326,
+            "locationX": 14.9,
+            "locationY": 22.1,
+            "skuPickSpeed": 60
+          },
+          {
+            "skuCode": "R3216011300LF",
+            "inspectedQuantity": 4.0,
+            "taskDetailId": 1414332,
+            "locationX": 14.9,
+            "locationY": 13.36,
+            "skuPickSpeed": 60
+          },
+          {
+            "skuCode": "R3216004910LC",
+            "inspectedQuantity": 1.0,
+            "taskDetailId": 1414342,
+            "locationX": 13.8,
+            "locationY": 19.43,
+            "skuPickSpeed": 60
+          }
+        ],
+        "timeLine": "2026-01-18 16:45:23"
+      },
+      {
+        "IngredientList": "CLCK202601160023",
+        "mainId": 674596,
+        "taskId": "CLCK202601160023#1052491",
+        "taskPriority": 2,
+        "skuList": [
+          {
+            "skuCode": "R3327800330LC",
+            "inspectedQuantity": 56.0,
+            "taskDetailId": 1414169,
+            "locationX": 0.63,
+            "locationY": 12.242,
+            "skuPickSpeed": 60
+          },
+          {
+            "skuCode": "R3321445100LA",
+            "inspectedQuantity": 39.0,
+            "taskDetailId": 1414177,
+            "locationX": 3.13,
+            "locationY": 12.892,
+            "skuPickSpeed": 60
+          },
+          {
+            "skuCode": "R3311415220LG",
+            "inspectedQuantity": 24.0,
+            "taskDetailId": 1414176,
+            "locationX": 3.13,
+            "locationY": 12.892,
+            "skuPickSpeed": 60
+          },
+          {
+            "skuCode": "R3321426100LC",
+            "inspectedQuantity": 11.0,
+            "taskDetailId": 1414175,
+            "locationX": 1.88,
+            "locationY": 12.892,
+            "skuPickSpeed": 60
+          },
+          {
+            "skuCode": "R3321416220LH",
+            "inspectedQuantity": 22.0,
+            "taskDetailId": 1414172,
+            "locationX": 1.88,
+            "locationY": 12.892,
+            "skuPickSpeed": 60
+          },
+          {
+            "skuCode": "R3321426220LB",
+            "inspectedQuantity": 33.0,
+            "taskDetailId": 1414180,
+            "locationX": 4.38,
+            "locationY": 12.242,
+            "skuPickSpeed": 60
+          },
+          {
+            "skuCode": "R3321255100LC",
+            "inspectedQuantity": 30.0,
+            "taskDetailId": 1414171,
+            "locationX": 1.88,
+            "locationY": 12.892,
+            "skuPickSpeed": 60
+          },
+          {
+            "skuCode": "R3321426220LB",
+            "inspectedQuantity": 36.0,
+            "taskDetailId": 1414179,
+            "locationX": 4.38,
+            "locationY": 12.242,
+            "skuPickSpeed": 60
+          },
+          {
+            "skuCode": "R3321416220LH",
+            "inspectedQuantity": 12.0,
+            "taskDetailId": 1414174,
+            "locationX": 1.88,
+            "locationY": 12.892,
+            "skuPickSpeed": 60
+          },
+          {
+            "skuCode": "R3216003100LD",
+            "inspectedQuantity": 8.0,
+            "taskDetailId": 1414182,
+            "locationX": 5.63,
+            "locationY": 12.892,
+            "skuPickSpeed": 60
+          },
+          {
+            "skuCode": "R3321416220LH",
+            "inspectedQuantity": 47.0,
+            "taskDetailId": 1414173,
+            "locationX": 1.88,
+            "locationY": 12.892,
+            "skuPickSpeed": 60
+          },
+          {
+            "skuCode": "R3327214100LG",
+            "inspectedQuantity": 79.0,
+            "taskDetailId": 1414181,
+            "locationX": 5.63,
+            "locationY": 12.242,
+            "skuPickSpeed": 60
+          },
+          {
+            "skuCode": "R3311415470LB",
+            "inspectedQuantity": 22.0,
+            "taskDetailId": 1414170,
+            "locationX": 0.63,
+            "locationY": 12.892,
+            "skuPickSpeed": 60
+          },
+          {
+            "skuCode": "R3327425100LD",
+            "inspectedQuantity": 4.0,
+            "taskDetailId": 1414178,
+            "locationX": 3.13,
+            "locationY": 12.892,
+            "skuPickSpeed": 60
+          }
+        ],
+        "timeLine": "2026-01-18 16:45:23"
+      },
+      {
+        "IngredientList": "CLCK202601160023",
+        "mainId": 674600,
+        "taskId": "CLCK202601160023#1052554",
+        "taskPriority": 2,
+        "skuList": [
+          {
+            "skuCode": "R3216003390LF",
+            "inspectedQuantity": 1.0,
+            "taskDetailId": 1414195,
+            "locationX": 12.6,
+            "locationY": 18.46,
+            "skuPickSpeed": 60
+          },
+          {
+            "skuCode": "R3216010180LD",
+            "inspectedQuantity": 2.0,
+            "taskDetailId": 1414201,
+            "locationX": 12.6,
+            "locationY": 20.65,
+            "skuPickSpeed": 60
+          },
+          {
+            "skuCode": "R3212009051LA",
+            "inspectedQuantity": 7.0,
+            "taskDetailId": 1414211,
+            "locationX": 12.6,
+            "locationY": 14.08,
+            "skuPickSpeed": 60
+          },
+          {
+            "skuCode": "R3311659913LB",
+            "inspectedQuantity": 2.0,
+            "taskDetailId": 1414217,
+            "locationX": 12.6,
+            "locationY": 22.83,
+            "skuPickSpeed": 60
+          },
+          {
+            "skuCode": "R3216014470LE",
+            "inspectedQuantity": 1.0,
+            "taskDetailId": 1414224,
+            "locationX": 12.6,
+            "locationY": 18.46,
+            "skuPickSpeed": 60
+          },
+          {
+            "skuCode": "R3210004330LC",
+            "inspectedQuantity": 2.0,
+            "taskDetailId": 1414234,
+            "locationX": 12.6,
+            "locationY": 11.9,
+            "skuPickSpeed": 60
+          },
+          {
+            "skuCode": "R3311661100LA",
+            "inspectedQuantity": 1.0,
+            "taskDetailId": 1414242,
+            "locationX": 12.6,
+            "locationY": 18.22,
+            "skuPickSpeed": 60
+          },
+          {
+            "skuCode": "R3216012470LE",
+            "inspectedQuantity": 3.0,
+            "taskDetailId": 1414248,
+            "locationX": 12.6,
+            "locationY": 14.81,
+            "skuPickSpeed": 60
+          },
+          {
+            "skuCode": "R3210002100LD",
+            "inspectedQuantity": 2.0,
+            "taskDetailId": 1414197,
+            "locationX": 12.6,
+            "locationY": 14.81,
+            "skuPickSpeed": 60
+          },
+          {
+            "skuCode": "R3210009100LD",
+            "inspectedQuantity": 1.0,
+            "taskDetailId": 1414207,
+            "locationX": 12.6,
+            "locationY": 17.0,
+            "skuPickSpeed": 60
+          },
+          {
+            "skuCode": "R3216004232LC",
+            "inspectedQuantity": 1.0,
+            "taskDetailId": 1414213,
+            "locationX": 12.6,
+            "locationY": 13.36,
+            "skuPickSpeed": 60
+          },
+          {
+            "skuCode": "R3210003604LA",
+            "inspectedQuantity": 3.0,
+            "taskDetailId": 1414223,
+            "locationX": 12.6,
+            "locationY": 19.19,
+            "skuPickSpeed": 60
+          },
+          {
+            "skuCode": "R3216011300LF",
+            "inspectedQuantity": 2.0,
+            "taskDetailId": 1414230,
+            "locationX": 12.6,
+            "locationY": 13.84,
+            "skuPickSpeed": 60
+          },
+          {
+            "skuCode": "R3211009100LD",
+            "inspectedQuantity": 1.0,
+            "taskDetailId": 1414236,
+            "locationX": 12.6,
+            "locationY": 22.35,
+            "skuPickSpeed": 60
+          },
+          {
+            "skuCode": "R3216003270LD",
+            "inspectedQuantity": 1.0,
+            "taskDetailId": 1414244,
+            "locationX": 12.6,
+            "locationY": 17.97,
+            "skuPickSpeed": 60
+          },
+          {
+            "skuCode": "R3414479620LA",
+            "inspectedQuantity": 2.0,
+            "taskDetailId": 1414192,
+            "locationX": 12.6,
+            "locationY": 22.83,
+            "skuPickSpeed": 60
+          },
+          {
+            "skuCode": "R3216011470LE",
+            "inspectedQuantity": 1.0,
+            "taskDetailId": 1414202,
+            "locationX": 12.6,
+            "locationY": 19.43,
+            "skuPickSpeed": 60
+          },
+          {
+            "skuCode": "R3212009001LD",
+            "inspectedQuantity": 5.0,
+            "taskDetailId": 1414208,
+            "locationX": 12.6,
+            "locationY": 15.3,
+            "skuPickSpeed": 60
+          },
+          {
+            "skuCode": "R3210003620LD",
+            "inspectedQuantity": 1.0,
+            "taskDetailId": 1414218,
+            "locationX": 12.6,
+            "locationY": 22.59,
+            "skuPickSpeed": 60
+          },
+          {
+            "skuCode": "R3216004240LA",
+            "inspectedQuantity": 1.0,
+            "taskDetailId": 1414227,
+            "locationX": 12.6,
+            "locationY": 15.06,
+            "skuPickSpeed": 60
+          },
+          {
+            "skuCode": "R3216010100LE",
+            "inspectedQuantity": 11.0,
+            "taskDetailId": 1414233,
+            "locationX": 12.6,
+            "locationY": 12.38,
+            "skuPickSpeed": 60
+          },
+          {
+            "skuCode": "R3216003130LC",
+            "inspectedQuantity": 1.0,
+            "taskDetailId": 1414241,
+            "locationX": 12.6,
+            "locationY": 18.46,
+            "skuPickSpeed": 60
+          },
+          {
+            "skuCode": "R3311416100LB",
+            "inspectedQuantity": 9.0,
+            "taskDetailId": 1414198,
+            "locationX": 12.6,
+            "locationY": 13.84,
+            "skuPickSpeed": 60
+          },
+          {
+            "skuCode": "R3311810220LK",
+            "inspectedQuantity": 1.0,
+            "taskDetailId": 1414204,
+            "locationX": 12.6,
+            "locationY": 17.97,
+            "skuPickSpeed": 60
+          },
+          {
+            "skuCode": "R3414479560LA",
+            "inspectedQuantity": 1.0,
+            "taskDetailId": 1414214,
+            "locationX": 12.6,
+            "locationY": 12.38,
+            "skuPickSpeed": 60
+          },
+          {
+            "skuCode": "R3216004330LE",
+            "inspectedQuantity": 1.0,
+            "taskDetailId": 1414220,
+            "locationX": 12.6,
+            "locationY": 20.4,
+            "skuPickSpeed": 60
+          },
+          {
+            "skuCode": "R3211019000LF",
+            "inspectedQuantity": 13.0,
+            "taskDetailId": 1414229,
+            "locationX": 12.6,
+            "locationY": 14.08,
+            "skuPickSpeed": 60
+          },
+          {
+            "skuCode": "R3216014200LG",
+            "inspectedQuantity": 2.0,
+            "taskDetailId": 1414239,
+            "locationX": 12.6,
+            "locationY": 20.16,
+            "skuPickSpeed": 60
+          },
+          {
+            "skuCode": "R3216003620LA",
+            "inspectedQuantity": 2.0,
+            "taskDetailId": 1414247,
+            "locationX": 12.6,
+            "locationY": 16.03,
+            "skuPickSpeed": 60
+          },
+          {
+            "skuCode": "R3411990100LH",
+            "inspectedQuantity": 2.0,
+            "taskDetailId": 1414194,
+            "locationX": 12.6,
+            "locationY": 19.92,
+            "skuPickSpeed": 60
+          },
+          {
+            "skuCode": "R3216001470LA",
+            "inspectedQuantity": 1.0,
+            "taskDetailId": 1414200,
+            "locationX": 12.6,
+            "locationY": 11.9,
+            "skuPickSpeed": 60
+          },
+          {
+            "skuCode": "R3216010510LF",
+            "inspectedQuantity": 2.0,
+            "taskDetailId": 1414210,
+            "locationX": 12.6,
+            "locationY": 14.81,
+            "skuPickSpeed": 60
+          },
+          {
+            "skuCode": "R3216002680LD",
+            "inspectedQuantity": 1.0,
+            "taskDetailId": 1414216,
+            "locationX": 12.6,
+            "locationY": 11.65,
+            "skuPickSpeed": 60
+          },
+          {
+            "skuCode": "R3327969680LA",
+            "inspectedQuantity": 1.0,
+            "taskDetailId": 1414225,
+            "locationX": 12.6,
+            "locationY": 17.97,
+            "skuPickSpeed": 60
+          },
+          {
+            "skuCode": "R3414130220LA",
+            "inspectedQuantity": 1.0,
+            "taskDetailId": 1414235,
+            "locationX": 12.6,
+            "locationY": 22.83,
+            "skuPickSpeed": 60
+          },
+          {
+            "skuCode": "R3216003270LD",
+            "inspectedQuantity": 1.0,
+            "taskDetailId": 1414243,
+            "locationX": 12.6,
+            "locationY": 17.97,
+            "skuPickSpeed": 60
+          },
+          {
+            "skuCode": "R3216002390LA",
+            "inspectedQuantity": 1.0,
+            "taskDetailId": 1414249,
+            "locationX": 12.6,
+            "locationY": 13.11,
+            "skuPickSpeed": 60
+          },
+          {
+            "skuCode": "R3210000100LD",
+            "inspectedQuantity": 1.0,
+            "taskDetailId": 1414196,
+            "locationX": 12.6,
+            "locationY": 17.49,
+            "skuPickSpeed": 60
+          },
+          {
+            "skuCode": "R3311810220LK",
+            "inspectedQuantity": 2.0,
+            "taskDetailId": 1414206,
+            "locationX": 12.6,
+            "locationY": 17.97,
+            "skuPickSpeed": 60
+          },
+          {
+            "skuCode": "R3212009051LA",
+            "inspectedQuantity": 1.0,
+            "taskDetailId": 1414212,
+            "locationX": 12.6,
+            "locationY": 14.08,
+            "skuPickSpeed": 60
+          },
+          {
+            "skuCode": "R3327415100LA",
+            "inspectedQuantity": 1.0,
+            "taskDetailId": 1414222,
+            "locationX": 12.6,
+            "locationY": 19.92,
+            "skuPickSpeed": 60
+          },
+          {
+            "skuCode": "R3210011180LH",
+            "inspectedQuantity": 2.0,
+            "taskDetailId": 1414231,
+            "locationX": 12.6,
+            "locationY": 12.87,
+            "skuPickSpeed": 60
+          },
+          {
+            "skuCode": "R3414479750LA",
+            "inspectedQuantity": 3.0,
+            "taskDetailId": 1414237,
+            "locationX": 12.6,
+            "locationY": 21.86,
+            "skuPickSpeed": 60
+          },
+          {
+            "skuCode": "R3210002100LC",
+            "inspectedQuantity": 4.0,
+            "taskDetailId": 1414245,
+            "locationX": 12.6,
+            "locationY": 17.0,
+            "skuPickSpeed": 60
+          },
+          {
+            "skuCode": "R3216011200LE",
+            "inspectedQuantity": 2.0,
+            "taskDetailId": 1414193,
+            "locationX": 12.6,
+            "locationY": 22.1,
+            "skuPickSpeed": 60
+          },
+          {
+            "skuCode": "R3216003510LC",
+            "inspectedQuantity": 1.0,
+            "taskDetailId": 1414203,
+            "locationX": 12.6,
+            "locationY": 18.46,
+            "skuPickSpeed": 60
+          },
+          {
+            "skuCode": "R3210009390LB",
+            "inspectedQuantity": 1.0,
+            "taskDetailId": 1414209,
+            "locationX": 12.6,
+            "locationY": 15.06,
+            "skuPickSpeed": 60
+          },
+          {
+            "skuCode": "R3214019000LC",
+            "inspectedQuantity": 1.0,
+            "taskDetailId": 1414219,
+            "locationX": 12.6,
+            "locationY": 22.35,
+            "skuPickSpeed": 60
+          },
+          {
+            "skuCode": "R3210011180LH",
+            "inspectedQuantity": 1.0,
+            "taskDetailId": 1414226,
+            "locationX": 12.6,
+            "locationY": 16.76,
+            "skuPickSpeed": 60
+          },
+          {
+            "skuCode": "R3212019000LA",
+            "inspectedQuantity": 7.0,
+            "taskDetailId": 1414232,
+            "locationX": 12.6,
+            "locationY": 12.63,
+            "skuPickSpeed": 60
+          },
+          {
+            "skuCode": "R3216003240LE",
+            "inspectedQuantity": 1.0,
+            "taskDetailId": 1414240,
+            "locationX": 12.6,
+            "locationY": 19.92,
+            "skuPickSpeed": 60
+          },
+          {
+            "skuCode": "R3210014100LF",
+            "inspectedQuantity": 1.0,
+            "taskDetailId": 1414250,
+            "locationX": 12.6,
+            "locationY": 12.14,
+            "skuPickSpeed": 60
+          },
+          {
+            "skuCode": "R3216004100LE",
+            "inspectedQuantity": 13.0,
+            "taskDetailId": 1414199,
+            "locationX": 12.6,
+            "locationY": 13.36,
+            "skuPickSpeed": 60
+          },
+          {
+            "skuCode": "R3311810220LK",
+            "inspectedQuantity": 4.0,
+            "taskDetailId": 1414205,
+            "locationX": 12.6,
+            "locationY": 17.97,
+            "skuPickSpeed": 60
+          },
+          {
+            "skuCode": "R3414479560LA",
+            "inspectedQuantity": 1.0,
+            "taskDetailId": 1414215,
+            "locationX": 12.6,
+            "locationY": 12.38,
+            "skuPickSpeed": 60
+          },
+          {
+            "skuCode": "R3216004330LE",
+            "inspectedQuantity": 2.0,
+            "taskDetailId": 1414221,
+            "locationX": 12.6,
+            "locationY": 20.4,
+            "skuPickSpeed": 60
+          },
+          {
+            "skuCode": "R3210010750LF",
+            "inspectedQuantity": 4.0,
+            "taskDetailId": 1414228,
+            "locationX": 12.6,
+            "locationY": 14.33,
+            "skuPickSpeed": 60
+          },
+          {
+            "skuCode": "R3311425470LC",
+            "inspectedQuantity": 37.0,
+            "taskDetailId": 1414238,
+            "locationX": 12.6,
+            "locationY": 20.65,
+            "skuPickSpeed": 60
+          },
+          {
+            "skuCode": "R32110101000C",
+            "inspectedQuantity": 4.0,
+            "taskDetailId": 1414246,
+            "locationX": 12.6,
+            "locationY": 16.27,
+            "skuPickSpeed": 60
+          }
+        ],
+        "timeLine": "2026-01-18 16:45:23"
+      },
+      {
+        "IngredientList": "CLCK202601160023",
+        "mainId": 674599,
+        "taskId": "CLCK202601160023#1052575",
+        "taskPriority": 2,
+        "skuList": [
+          {
+            "skuCode": "R9519000005LA",
+            "inspectedQuantity": 18.0,
+            "taskDetailId": 1414191,
+            "locationX": 1.88,
+            "locationY": 2.54,
+            "skuPickSpeed": 60
+          }
+        ],
+        "timeLine": "2026-01-18 16:45:23"
+      },
+      {
+        "IngredientList": "CLCK202601160023",
+        "mainId": 674597,
+        "taskId": "CLCK202601160023#1052506",
+        "taskPriority": 2,
+        "skuList": [
+          {
+            "skuCode": "R3327415100LG",
+            "inspectedQuantity": 188.0,
+            "taskDetailId": 1414184,
+            "locationX": 0.63,
+            "locationY": 9.705,
+            "skuPickSpeed": 60
+          },
+          {
+            "skuCode": "R3322446220LD",
+            "inspectedQuantity": 46.0,
+            "taskDetailId": 1414186,
+            "locationX": 1.88,
+            "locationY": 9.705,
+            "skuPickSpeed": 60
+          },
+          {
+            "skuCode": "R3322446220LD",
+            "inspectedQuantity": 3.0,
+            "taskDetailId": 1414187,
+            "locationX": 1.88,
+            "locationY": 9.705,
+            "skuPickSpeed": 60
+          },
+          {
+            "skuCode": "R3311426100LB",
+            "inspectedQuantity": 21.0,
+            "taskDetailId": 1414185,
+            "locationX": 1.88,
+            "locationY": 9.705,
+            "skuPickSpeed": 60
+          },
+          {
+            "skuCode": "R3327224210LD",
+            "inspectedQuantity": 51.0,
+            "taskDetailId": 1414183,
+            "locationX": 0.63,
+            "locationY": 9.705,
+            "skuPickSpeed": 60
+          },
+          {
+            "skuCode": "R3431992330LB",
+            "inspectedQuantity": 10.0,
+            "taskDetailId": 1414188,
+            "locationX": 5.63,
+            "locationY": 9.705,
+            "skuPickSpeed": 60
+          }
+        ],
+        "timeLine": "2026-01-18 16:45:23"
+      }
+    ]
+  }
+}
